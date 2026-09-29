@@ -1,0 +1,40 @@
+erDiagram
+    dim_tempo {
+        INT64 tempo_id PK
+        DATE data
+        INT64 dia
+        INT64 mes
+        INT64 ano
+        STRING nome_mes
+    }
+
+    dim_restaurante {
+        INT64 restaurante_id PK
+        STRING nome
+        STRING categoria
+        STRING cidade
+        STRING uf
+    }
+
+    dim_cliente {
+        INT64 cliente_id PK
+        STRING nome
+        STRING cidade
+        STRING uf
+        STRING regiao
+    }
+
+    fato_vendas {
+        INT64 pedido_id PK
+        INT64 item_id PK
+        INT64 tempo_id FK
+        INT64 restaurante_id FK
+        INT64 cliente_id FK
+        INT64 quantidade
+        NUMERIC preco_unitario
+        NUMERIC subtotal "Métrica (o que se soma)"
+    }
+
+    fato_vendas }|--|| dim_tempo : "quando ocorreu"
+    fato_vendas }|--|| dim_restaurante : "onde comprou"
+    fato_vendas }|--|| dim_cliente : "quem comprou / cidade"

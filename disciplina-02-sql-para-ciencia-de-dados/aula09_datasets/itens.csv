@@ -1,0 +1,409 @@
+item_id,restaurante_id,nome_item,categoria_item,tipo_item,preco
+1,1,Pizza Calabresa,Pizzaria,Acompanhamento,29.58
+2,1,Pizza Frango com Catupiry,Pizzaria,Acompanhamento,62.71
+3,1,Pizza Frango com Catupiry,Pizzaria,Prato principal,38.83
+4,1,Pizza Calabresa,Pizzaria,Sobremesa,71.98
+5,1,Pizza Quatro Queijos,Pizzaria,Prato principal,53.61
+6,1,Pizza Calabresa,Pizzaria,Prato principal,57.48
+7,1,Pizza Calabresa,Pizzaria,Prato principal,59.83
+8,1,Esfiha de Queijo,Pizzaria,Sobremesa,39.72
+9,2,Batata Frita,Hambúrguer,Sobremesa,60.62
+10,2,Cheeseburger Duplo,Hambúrguer,Prato principal,34.57
+11,2,X-Salada,Hambúrguer,Bebida,55.48
+12,2,Hambúrguer Artesanal,Hambúrguer,Sobremesa,68.99
+13,2,X-Salada,Hambúrguer,Prato principal,33.38
+14,2,X-Salada,Hambúrguer,Sobremesa,27.91
+15,2,Cheeseburger Duplo,Hambúrguer,Bebida,69.05
+16,2,Cheeseburger Duplo,Hambúrguer,Bebida,60.72
+17,2,Batata Frita,Hambúrguer,Acompanhamento,17.56
+18,3,Moqueca de Peixe,Brasileira,Sobremesa,36.49
+19,3,Feijoada Completa,Brasileira,Prato principal,58.66
+20,3,Parmegiana de Frango,Brasileira,Sobremesa,24.69
+21,3,Parmegiana de Frango,Brasileira,Prato principal,62.03
+22,3,Parmegiana de Frango,Brasileira,Bebida,56.88
+23,3,Cerveja Nacional,Brasileira,Bebida,32.17
+24,3,Feijoada Completa,Brasileira,Prato principal,67.86
+25,3,Feijoada Completa,Brasileira,Bebida,38.41
+26,4,Wrap de Legumes,Vegetariana,Sobremesa,63.01
+27,4,Hambúrguer de Grão de Bico,Vegetariana,Prato principal,15.63
+28,4,Salada Caesar Vegana,Vegetariana,Acompanhamento,36.36
+29,4,Risoto de Cogumelos,Vegetariana,Bebida,72.1
+30,4,Hambúrguer de Grão de Bico,Vegetariana,Bebida,67.97
+31,4,Salada Caesar Vegana,Vegetariana,Prato principal,41.05
+32,4,Risoto de Cogumelos,Vegetariana,Bebida,69.32
+33,4,Bolo de Cenoura Vegano,Vegetariana,Sobremesa,66.99
+34,4,Bolo de Cenoura Vegano,Vegetariana,Acompanhamento,22.35
+35,4,Bolo de Cenoura Vegano,Vegetariana,Prato principal,78.8
+36,5,Temaki Salmão,Japonesa,Sobremesa,74.23
+37,5,Sake,Japonesa,Sobremesa,26.78
+38,5,Missoshiro,Japonesa,Bebida,54.74
+39,5,Uramaki Filadélfia,Japonesa,Sobremesa,74.83
+40,5,Temaki Salmão,Japonesa,Sobremesa,43.64
+41,5,Temaki Salmão,Japonesa,Bebida,57.57
+42,6,Cheeseburger Duplo,Hambúrguer,Bebida,48.74
+43,6,X-Salada,Hambúrguer,Sobremesa,58.01
+44,6,Cheeseburger Duplo,Hambúrguer,Sobremesa,37.47
+45,6,Milkshake de Chocolate,Hambúrguer,Acompanhamento,69.54
+46,6,X-Bacon,Hambúrguer,Prato principal,56.82
+47,7,Água com Gás,Italiana,Sobremesa,71.51
+48,7,Spaghetti Carbonara,Italiana,Sobremesa,35.84
+49,7,Panna Cotta,Italiana,Bebida,18.27
+50,7,Ravioli de Queijo,Italiana,Sobremesa,41.21
+51,7,Ravioli de Queijo,Italiana,Prato principal,44.84
+52,7,Água com Gás,Italiana,Prato principal,70.68
+53,8,Onion Rings,Hambúrguer,Prato principal,78.74
+54,8,X-Bacon,Hambúrguer,Prato principal,41.22
+55,8,X-Bacon,Hambúrguer,Prato principal,68.68
+56,8,Batata Frita,Hambúrguer,Acompanhamento,57.55
+57,8,Refrigerante,Hambúrguer,Bebida,38.62
+58,8,X-Bacon,Hambúrguer,Acompanhamento,69.88
+59,8,Onion Rings,Hambúrguer,Sobremesa,61.58
+60,8,Onion Rings,Hambúrguer,Sobremesa,22.41
+61,9,Moqueca de Peixe,Brasileira,Prato principal,37.19
+62,9,Açaí na Tigela,Brasileira,Bebida,60.64
+63,9,Feijoada Completa,Brasileira,Acompanhamento,47.01
+64,9,Guaraná,Brasileira,Prato principal,31.53
+65,9,Moqueca de Peixe,Brasileira,Acompanhamento,22.85
+66,9,Guaraná,Brasileira,Acompanhamento,44.71
+67,9,Moqueca de Peixe,Brasileira,Bebida,22.0
+68,9,Guaraná,Brasileira,Prato principal,75.23
+69,9,Parmegiana de Frango,Brasileira,Sobremesa,44.73
+70,9,Bife à Cavalo,Brasileira,Sobremesa,15.28
+71,10,X-Bacon,Hambúrguer,Sobremesa,69.52
+72,10,Refrigerante,Hambúrguer,Acompanhamento,59.97
+73,10,Hambúrguer Artesanal,Hambúrguer,Acompanhamento,21.73
+74,10,Onion Rings,Hambúrguer,Sobremesa,42.21
+75,10,Cheeseburger Duplo,Hambúrguer,Bebida,40.86
+76,10,Onion Rings,Hambúrguer,Bebida,44.43
+77,10,Hambúrguer Artesanal,Hambúrguer,Acompanhamento,41.83
+78,10,Batata Frita,Hambúrguer,Bebida,61.27
+79,10,Cheeseburger Duplo,Hambúrguer,Acompanhamento,28.63
+80,10,Batata Frita,Hambúrguer,Bebida,74.88
+81,11,Homus,Árabe,Bebida,61.17
+82,11,Coalhada Seca,Árabe,Sobremesa,52.88
+83,11,Cerveja Árabe,Árabe,Bebida,72.04
+84,11,Cerveja Árabe,Árabe,Prato principal,48.98
+85,11,Kibe Frito,Árabe,Sobremesa,24.45
+86,11,Kibe Frito,Árabe,Acompanhamento,32.35
+87,12,Batata Frita,Hambúrguer,Bebida,24.52
+88,12,X-Bacon,Hambúrguer,Bebida,28.26
+89,12,X-Bacon,Hambúrguer,Bebida,67.91
+90,12,X-Salada,Hambúrguer,Acompanhamento,63.26
+91,12,Milkshake de Chocolate,Hambúrguer,Acompanhamento,48.21
+92,12,Batata Frita,Hambúrguer,Prato principal,75.22
+93,13,Missoshiro,Japonesa,Bebida,77.78
+94,13,Combinado Sushi e Sashimi,Japonesa,Prato principal,63.34
+95,13,Hot Roll,Japonesa,Sobremesa,68.95
+96,13,Gyoza,Japonesa,Acompanhamento,65.45
+97,13,Hot Roll,Japonesa,Bebida,44.17
+98,13,Temaki Salmão,Japonesa,Acompanhamento,77.56
+99,13,Temaki Salmão,Japonesa,Sobremesa,17.64
+100,13,Yakisoba,Japonesa,Bebida,23.45
+101,14,Açaí na Tigela,Brasileira,Prato principal,36.49
+102,14,Bife à Cavalo,Brasileira,Prato principal,24.99
+103,14,Pudim de Leite,Brasileira,Prato principal,65.29
+104,14,Açaí na Tigela,Brasileira,Sobremesa,66.34
+105,14,Pudim de Leite,Brasileira,Prato principal,65.96
+106,14,Pudim de Leite,Brasileira,Acompanhamento,77.2
+107,14,Parmegiana de Frango,Brasileira,Acompanhamento,42.04
+108,14,Guaraná,Brasileira,Prato principal,37.71
+109,14,Moqueca de Peixe,Brasileira,Bebida,36.52
+110,15,Pizza Portuguesa,Pizzaria,Sobremesa,79.78
+111,15,Pizza Calabresa,Pizzaria,Prato principal,58.48
+112,15,Calzone de Frango,Pizzaria,Acompanhamento,73.79
+113,15,Pizza Portuguesa,Pizzaria,Prato principal,59.37
+114,15,Esfiha de Carne,Pizzaria,Sobremesa,74.54
+115,15,Pizza Margherita,Pizzaria,Sobremesa,31.68
+116,15,Pizza Quatro Queijos,Pizzaria,Prato principal,74.24
+117,16,Chá de Hortelã,Árabe,Sobremesa,17.85
+118,16,Babaganoush,Árabe,Bebida,48.4
+119,16,Esfiha Aberta de Carne,Árabe,Acompanhamento,78.16
+120,16,Kibe Frito,Árabe,Prato principal,28.7
+121,16,Babaganoush,Árabe,Sobremesa,69.32
+122,16,Babaganoush,Árabe,Sobremesa,57.03
+123,16,Esfiha Aberta de Carne,Árabe,Acompanhamento,16.54
+124,17,Gyoza,Japonesa,Prato principal,20.69
+125,17,Combinado Sushi e Sashimi,Japonesa,Acompanhamento,66.62
+126,17,Temaki Salmão,Japonesa,Acompanhamento,74.21
+127,17,Missoshiro,Japonesa,Sobremesa,44.32
+128,17,Missoshiro,Japonesa,Sobremesa,35.57
+129,17,Missoshiro,Japonesa,Prato principal,49.76
+130,17,Temaki Salmão,Japonesa,Prato principal,60.56
+131,17,Temaki Salmão,Japonesa,Bebida,75.32
+132,17,Temaki Salmão,Japonesa,Bebida,66.15
+133,17,Yakisoba,Japonesa,Prato principal,33.3
+134,18,Vinho Tinto,Italiana,Sobremesa,68.44
+135,18,Lasanha à Bolonhesa,Italiana,Sobremesa,25.16
+136,18,Ravioli de Queijo,Italiana,Acompanhamento,63.54
+137,18,Tiramisu,Italiana,Acompanhamento,34.37
+138,18,Panna Cotta,Italiana,Prato principal,50.98
+139,18,Risoto de Funghi,Italiana,Prato principal,17.72
+140,18,Vinho Tinto,Italiana,Prato principal,34.8
+141,18,Panna Cotta,Italiana,Acompanhamento,41.82
+142,19,Bife à Cavalo,Brasileira,Acompanhamento,26.96
+143,19,Açaí na Tigela,Brasileira,Acompanhamento,22.45
+144,19,Feijoada Completa,Brasileira,Sobremesa,56.9
+145,19,Parmegiana de Frango,Brasileira,Bebida,58.66
+146,19,Açaí na Tigela,Brasileira,Prato principal,27.83
+147,19,Cerveja Nacional,Brasileira,Bebida,38.21
+148,19,Moqueca de Peixe,Brasileira,Prato principal,33.53
+149,19,Parmegiana de Frango,Brasileira,Acompanhamento,35.66
+150,19,Cerveja Nacional,Brasileira,Bebida,55.06
+151,19,Açaí na Tigela,Brasileira,Acompanhamento,51.76
+152,20,Onion Rings,Hambúrguer,Sobremesa,25.96
+153,20,Onion Rings,Hambúrguer,Acompanhamento,66.07
+154,20,Milkshake de Chocolate,Hambúrguer,Bebida,69.61
+155,20,Hambúrguer Artesanal,Hambúrguer,Bebida,72.06
+156,20,Refrigerante,Hambúrguer,Sobremesa,38.32
+157,20,Batata Frita,Hambúrguer,Sobremesa,50.86
+158,20,Hambúrguer Artesanal,Hambúrguer,Prato principal,69.72
+159,21,Cheeseburger Duplo,Hambúrguer,Bebida,62.68
+160,21,X-Salada,Hambúrguer,Prato principal,72.99
+161,21,X-Bacon,Hambúrguer,Sobremesa,65.0
+162,21,Cheeseburger Duplo,Hambúrguer,Prato principal,50.85
+163,21,Refrigerante,Hambúrguer,Acompanhamento,38.78
+164,21,Cheeseburger Duplo,Hambúrguer,Bebida,23.7
+165,22,Pizza Margherita,Pizzaria,Sobremesa,38.65
+166,22,Pizza Calabresa,Pizzaria,Acompanhamento,70.12
+167,22,Pizza Frango com Catupiry,Pizzaria,Acompanhamento,44.0
+168,22,Pizza Frango com Catupiry,Pizzaria,Acompanhamento,62.83
+169,22,Calzone de Frango,Pizzaria,Bebida,17.63
+170,22,Calzone de Frango,Pizzaria,Acompanhamento,19.09
+171,22,Esfiha de Carne,Pizzaria,Acompanhamento,17.78
+172,22,Pizza Portuguesa,Pizzaria,Bebida,40.23
+173,22,Calzone de Frango,Pizzaria,Prato principal,17.59
+174,23,Coalhada Seca,Árabe,Prato principal,60.74
+175,23,Charuto de Repolho,Árabe,Bebida,52.61
+176,23,Homus,Árabe,Sobremesa,57.49
+177,23,Coalhada Seca,Árabe,Prato principal,48.58
+178,23,Cerveja Árabe,Árabe,Acompanhamento,48.56
+179,23,Coalhada Seca,Árabe,Bebida,46.65
+180,23,Chá de Hortelã,Árabe,Prato principal,47.62
+181,23,Homus,Árabe,Sobremesa,25.76
+182,23,Esfiha Aberta de Carne,Árabe,Bebida,28.75
+183,23,Homus,Árabe,Acompanhamento,38.54
+184,24,Spaghetti Carbonara,Italiana,Acompanhamento,41.95
+185,24,Panna Cotta,Italiana,Prato principal,46.3
+186,24,Água com Gás,Italiana,Sobremesa,28.7
+187,24,Risoto de Funghi,Italiana,Sobremesa,16.46
+188,24,Lasanha à Bolonhesa,Italiana,Acompanhamento,52.28
+189,24,Risoto de Funghi,Italiana,Acompanhamento,55.92
+190,24,Lasanha à Bolonhesa,Italiana,Acompanhamento,18.63
+191,24,Tiramisu,Italiana,Acompanhamento,48.58
+192,24,Vinho Tinto,Italiana,Prato principal,72.1
+193,24,Tiramisu,Italiana,Prato principal,29.08
+194,25,Água com Gás,Italiana,Sobremesa,26.09
+195,25,Vinho Tinto,Italiana,Acompanhamento,66.65
+196,25,Risoto de Funghi,Italiana,Bebida,25.9
+197,25,Panna Cotta,Italiana,Sobremesa,53.77
+198,25,Spaghetti Carbonara,Italiana,Acompanhamento,39.58
+199,25,Risoto de Funghi,Italiana,Prato principal,16.08
+200,25,Vinho Tinto,Italiana,Acompanhamento,54.36
+201,25,Risoto de Funghi,Italiana,Sobremesa,73.6
+202,25,Lasanha à Bolonhesa,Italiana,Prato principal,21.06
+203,26,Pizza Frango com Catupiry,Pizzaria,Prato principal,73.3
+204,26,Esfiha de Queijo,Pizzaria,Sobremesa,39.07
+205,26,Pizza Calabresa,Pizzaria,Sobremesa,29.92
+206,26,Calzone de Frango,Pizzaria,Sobremesa,37.78
+207,26,Pizza Margherita,Pizzaria,Sobremesa,23.7
+208,26,Calzone de Frango,Pizzaria,Acompanhamento,74.16
+209,26,Pizza Margherita,Pizzaria,Bebida,53.89
+210,26,Esfiha de Queijo,Pizzaria,Bebida,27.29
+211,26,Pizza Calabresa,Pizzaria,Prato principal,48.78
+212,26,Esfiha de Queijo,Pizzaria,Acompanhamento,59.7
+213,27,Vinho Tinto,Italiana,Bebida,21.93
+214,27,Vinho Tinto,Italiana,Bebida,31.98
+215,27,Vinho Tinto,Italiana,Bebida,54.77
+216,27,Vinho Tinto,Italiana,Acompanhamento,41.86
+217,27,Água com Gás,Italiana,Acompanhamento,39.06
+218,27,Água com Gás,Italiana,Bebida,79.25
+219,27,Panna Cotta,Italiana,Sobremesa,62.83
+220,28,X-Salada,Hambúrguer,Acompanhamento,44.03
+221,28,Hambúrguer Artesanal,Hambúrguer,Prato principal,28.94
+222,28,Milkshake de Chocolate,Hambúrguer,Bebida,67.06
+223,28,X-Bacon,Hambúrguer,Acompanhamento,40.29
+224,28,X-Bacon,Hambúrguer,Prato principal,68.51
+225,28,Refrigerante,Hambúrguer,Sobremesa,20.73
+226,28,Batata Frita,Hambúrguer,Acompanhamento,39.1
+227,28,X-Bacon,Hambúrguer,Sobremesa,75.49
+228,28,Milkshake de Chocolate,Hambúrguer,Bebida,61.25
+229,28,X-Bacon,Hambúrguer,Acompanhamento,56.62
+230,29,Combinado Sushi e Sashimi,Japonesa,Acompanhamento,70.29
+231,29,Yakisoba,Japonesa,Acompanhamento,17.18
+232,29,Hot Roll,Japonesa,Acompanhamento,58.81
+233,29,Gyoza,Japonesa,Acompanhamento,57.58
+234,29,Uramaki Filadélfia,Japonesa,Prato principal,79.79
+235,29,Missoshiro,Japonesa,Bebida,58.53
+236,29,Missoshiro,Japonesa,Acompanhamento,48.65
+237,29,Temaki Salmão,Japonesa,Prato principal,50.72
+238,30,Água de Coco,Vegetariana,Bebida,37.59
+239,30,Água de Coco,Vegetariana,Bebida,29.71
+240,30,Salada Caesar Vegana,Vegetariana,Sobremesa,75.43
+241,30,Suco Natural,Vegetariana,Prato principal,31.97
+242,30,Risoto de Cogumelos,Vegetariana,Prato principal,51.31
+243,30,Suco Natural,Vegetariana,Bebida,37.1
+244,30,Hambúrguer de Grão de Bico,Vegetariana,Bebida,71.95
+245,30,Água de Coco,Vegetariana,Bebida,60.12
+246,30,Risoto de Cogumelos,Vegetariana,Sobremesa,65.05
+247,30,Água de Coco,Vegetariana,Bebida,77.48
+248,31,Água com Gás,Italiana,Prato principal,46.33
+249,31,Tiramisu,Italiana,Prato principal,39.87
+250,31,Ravioli de Queijo,Italiana,Acompanhamento,67.01
+251,31,Vinho Tinto,Italiana,Bebida,48.57
+252,31,Lasanha à Bolonhesa,Italiana,Bebida,31.14
+253,31,Spaghetti Carbonara,Italiana,Sobremesa,58.79
+254,31,Panna Cotta,Italiana,Prato principal,51.05
+255,31,Risoto de Funghi,Italiana,Sobremesa,35.4
+256,32,Pudim de Leite Condensado,Doces & Bolos,Acompanhamento,76.56
+257,32,Beijinho,Doces & Bolos,Sobremesa,62.91
+258,32,Beijinho,Doces & Bolos,Acompanhamento,71.73
+259,32,Beijinho,Doces & Bolos,Acompanhamento,28.18
+260,32,Beijinho,Doces & Bolos,Bebida,25.14
+261,32,Bolo de Cenoura,Doces & Bolos,Prato principal,74.81
+262,33,Cerveja Nacional,Brasileira,Prato principal,64.68
+263,33,Feijoada Completa,Brasileira,Sobremesa,39.13
+264,33,Pudim de Leite,Brasileira,Sobremesa,73.38
+265,33,Açaí na Tigela,Brasileira,Sobremesa,26.89
+266,33,Açaí na Tigela,Brasileira,Sobremesa,29.44
+267,33,Bife à Cavalo,Brasileira,Prato principal,49.17
+268,33,Guaraná,Brasileira,Sobremesa,76.08
+269,33,Feijoada Completa,Brasileira,Bebida,40.59
+270,33,Bife à Cavalo,Brasileira,Sobremesa,78.47
+271,33,Cerveja Nacional,Brasileira,Bebida,59.8
+272,34,Moqueca de Peixe,Brasileira,Sobremesa,52.77
+273,34,Pudim de Leite,Brasileira,Bebida,54.83
+274,34,Açaí na Tigela,Brasileira,Acompanhamento,50.66
+275,34,Moqueca de Peixe,Brasileira,Bebida,45.64
+276,34,Pudim de Leite,Brasileira,Bebida,26.95
+277,35,Moqueca de Peixe,Brasileira,Sobremesa,60.55
+278,35,Pudim de Leite,Brasileira,Bebida,70.53
+279,35,Açaí na Tigela,Brasileira,Sobremesa,26.69
+280,35,Bife à Cavalo,Brasileira,Acompanhamento,67.92
+281,35,Açaí na Tigela,Brasileira,Acompanhamento,51.1
+282,35,Guaraná,Brasileira,Acompanhamento,24.48
+283,35,Bife à Cavalo,Brasileira,Sobremesa,67.37
+284,35,Bife à Cavalo,Brasileira,Sobremesa,47.47
+285,36,Torta de Limão,Doces & Bolos,Sobremesa,34.5
+286,36,Bolo de Chocolate,Doces & Bolos,Sobremesa,21.43
+287,36,Brigadeiro,Doces & Bolos,Prato principal,29.01
+288,36,Pudim de Leite Condensado,Doces & Bolos,Sobremesa,69.53
+289,36,Bolo de Cenoura,Doces & Bolos,Sobremesa,63.4
+290,36,Pudim de Leite Condensado,Doces & Bolos,Bebida,38.42
+291,36,Pudim de Leite Condensado,Doces & Bolos,Bebida,16.29
+292,36,Bolo de Cenoura,Doces & Bolos,Bebida,71.38
+293,36,Beijinho,Doces & Bolos,Acompanhamento,78.66
+294,36,Pudim de Leite Condensado,Doces & Bolos,Bebida,36.13
+295,37,Refrigerante,Hambúrguer,Sobremesa,72.83
+296,37,Milkshake de Chocolate,Hambúrguer,Bebida,45.14
+297,37,Hambúrguer Artesanal,Hambúrguer,Acompanhamento,56.64
+298,37,Onion Rings,Hambúrguer,Sobremesa,56.03
+299,37,Milkshake de Chocolate,Hambúrguer,Prato principal,20.14
+300,37,Onion Rings,Hambúrguer,Acompanhamento,35.38
+301,37,Batata Frita,Hambúrguer,Bebida,54.35
+302,37,Milkshake de Chocolate,Hambúrguer,Bebida,72.7
+303,37,Onion Rings,Hambúrguer,Sobremesa,41.91
+304,38,Bolo de Chocolate,Doces & Bolos,Acompanhamento,62.31
+305,38,Pudim de Leite Condensado,Doces & Bolos,Prato principal,28.69
+306,38,Café,Doces & Bolos,Prato principal,21.21
+307,38,Chá,Doces & Bolos,Prato principal,16.71
+308,38,Café,Doces & Bolos,Prato principal,21.76
+309,38,Brigadeiro,Doces & Bolos,Prato principal,57.56
+310,39,Wrap de Legumes,Vegetariana,Acompanhamento,31.08
+311,39,Wrap de Legumes,Vegetariana,Sobremesa,55.72
+312,39,Salada Caesar Vegana,Vegetariana,Acompanhamento,16.86
+313,39,Bolo de Cenoura Vegano,Vegetariana,Bebida,70.92
+314,39,Wrap de Legumes,Vegetariana,Sobremesa,45.37
+315,39,Água de Coco,Vegetariana,Bebida,50.66
+316,39,Salada Caesar Vegana,Vegetariana,Acompanhamento,53.4
+317,39,Risoto de Cogumelos,Vegetariana,Sobremesa,49.02
+318,40,Açaí na Tigela,Brasileira,Bebida,46.31
+319,40,Moqueca de Peixe,Brasileira,Prato principal,43.72
+320,40,Pudim de Leite,Brasileira,Sobremesa,31.89
+321,40,Açaí na Tigela,Brasileira,Prato principal,15.01
+322,40,Bife à Cavalo,Brasileira,Bebida,33.64
+323,40,Feijoada Completa,Brasileira,Sobremesa,76.55
+324,40,Cerveja Nacional,Brasileira,Bebida,15.59
+325,40,Guaraná,Brasileira,Bebida,53.81
+326,40,Feijoada Completa,Brasileira,Bebida,27.26
+327,40,Guaraná,Brasileira,Sobremesa,31.24
+328,41,Café,Doces & Bolos,Sobremesa,29.34
+329,41,Bolo de Cenoura,Doces & Bolos,Sobremesa,55.65
+330,41,Pudim de Leite Condensado,Doces & Bolos,Bebida,57.15
+331,41,Pudim de Leite Condensado,Doces & Bolos,Sobremesa,27.22
+332,41,Bolo de Cenoura,Doces & Bolos,Acompanhamento,23.88
+333,41,Bolo de Cenoura,Doces & Bolos,Sobremesa,55.15
+334,41,Pudim de Leite Condensado,Doces & Bolos,Sobremesa,27.21
+335,41,Bolo de Chocolate,Doces & Bolos,Acompanhamento,18.23
+336,41,Bolo de Chocolate,Doces & Bolos,Acompanhamento,78.2
+337,41,Pudim de Leite Condensado,Doces & Bolos,Bebida,23.13
+338,42,X-Bacon,Hambúrguer,Acompanhamento,20.86
+339,42,X-Bacon,Hambúrguer,Sobremesa,29.12
+340,42,Milkshake de Chocolate,Hambúrguer,Bebida,66.07
+341,42,Refrigerante,Hambúrguer,Bebida,45.14
+342,42,X-Bacon,Hambúrguer,Bebida,20.21
+343,42,Hambúrguer Artesanal,Hambúrguer,Prato principal,32.32
+344,42,Milkshake de Chocolate,Hambúrguer,Prato principal,50.31
+345,42,Hambúrguer Artesanal,Hambúrguer,Acompanhamento,73.22
+346,43,Milkshake de Chocolate,Hambúrguer,Prato principal,22.93
+347,43,Cheeseburger Duplo,Hambúrguer,Sobremesa,65.13
+348,43,Refrigerante,Hambúrguer,Acompanhamento,62.95
+349,43,X-Bacon,Hambúrguer,Acompanhamento,44.95
+350,43,X-Salada,Hambúrguer,Acompanhamento,45.73
+351,43,Batata Frita,Hambúrguer,Bebida,25.31
+352,43,X-Bacon,Hambúrguer,Prato principal,31.47
+353,44,Wrap de Legumes,Vegetariana,Acompanhamento,38.43
+354,44,Hambúrguer de Grão de Bico,Vegetariana,Acompanhamento,78.26
+355,44,Salada Caesar Vegana,Vegetariana,Sobremesa,36.09
+356,44,Salada Caesar Vegana,Vegetariana,Bebida,53.01
+357,44,Risoto de Cogumelos,Vegetariana,Acompanhamento,15.58
+358,44,Hambúrguer de Grão de Bico,Vegetariana,Sobremesa,59.75
+359,44,Salada Caesar Vegana,Vegetariana,Bebida,65.1
+360,44,Salada Caesar Vegana,Vegetariana,Acompanhamento,47.49
+361,44,Bolo de Cenoura Vegano,Vegetariana,Bebida,75.51
+362,44,Água de Coco,Vegetariana,Prato principal,18.89
+363,45,Brigadeiro,Doces & Bolos,Prato principal,23.18
+364,45,Beijinho,Doces & Bolos,Bebida,78.81
+365,45,Torta de Limão,Doces & Bolos,Sobremesa,62.66
+366,45,Bolo de Chocolate,Doces & Bolos,Sobremesa,38.28
+367,45,Brigadeiro,Doces & Bolos,Bebida,73.41
+368,45,Chá,Doces & Bolos,Sobremesa,51.34
+369,45,Chá,Doces & Bolos,Acompanhamento,51.84
+370,45,Torta de Limão,Doces & Bolos,Bebida,62.61
+371,45,Pudim de Leite Condensado,Doces & Bolos,Acompanhamento,19.48
+372,45,Brigadeiro,Doces & Bolos,Sobremesa,34.22
+373,46,Torta de Limão,Doces & Bolos,Sobremesa,15.05
+374,46,Café,Doces & Bolos,Acompanhamento,72.39
+375,46,Torta de Limão,Doces & Bolos,Acompanhamento,35.85
+376,46,Bolo de Cenoura,Doces & Bolos,Sobremesa,27.34
+377,46,Chá,Doces & Bolos,Acompanhamento,54.85
+378,46,Torta de Limão,Doces & Bolos,Sobremesa,56.66
+379,46,Bolo de Cenoura,Doces & Bolos,Prato principal,49.01
+380,47,Pizza Calabresa,Pizzaria,Acompanhamento,26.61
+381,47,Pizza Calabresa,Pizzaria,Acompanhamento,21.96
+382,47,Pizza Portuguesa,Pizzaria,Prato principal,17.07
+383,47,Esfiha de Queijo,Pizzaria,Sobremesa,49.18
+384,47,Pizza Quatro Queijos,Pizzaria,Prato principal,38.81
+385,48,Temaki Salmão,Japonesa,Prato principal,75.46
+386,48,Hot Roll,Japonesa,Sobremesa,75.35
+387,48,Temaki Salmão,Japonesa,Sobremesa,67.07
+388,48,Combinado Sushi e Sashimi,Japonesa,Bebida,51.27
+389,48,Missoshiro,Japonesa,Bebida,66.63
+390,48,Combinado Sushi e Sashimi,Japonesa,Bebida,49.39
+391,48,Temaki Salmão,Japonesa,Bebida,20.07
+392,48,Hot Roll,Japonesa,Prato principal,21.58
+393,48,Hot Roll,Japonesa,Sobremesa,27.31
+394,49,Cheeseburger Duplo,Hambúrguer,Acompanhamento,51.3
+395,49,Milkshake de Chocolate,Hambúrguer,Prato principal,64.81
+396,49,Onion Rings,Hambúrguer,Sobremesa,60.67
+397,49,Milkshake de Chocolate,Hambúrguer,Prato principal,25.84
+398,49,Hambúrguer Artesanal,Hambúrguer,Sobremesa,47.81
+399,49,Hambúrguer Artesanal,Hambúrguer,Sobremesa,75.68
+400,49,Onion Rings,Hambúrguer,Bebida,69.92
+401,49,Milkshake de Chocolate,Hambúrguer,Sobremesa,68.7
+402,49,Onion Rings,Hambúrguer,Acompanhamento,51.6
+403,50,Milkshake de Chocolate,Hambúrguer,Bebida,38.4
+404,50,Refrigerante,Hambúrguer,Sobremesa,77.39
+405,50,X-Bacon,Hambúrguer,Prato principal,78.89
+406,50,X-Bacon,Hambúrguer,Acompanhamento,79.57
+407,50,Batata Frita,Hambúrguer,Prato principal,34.52
+408,50,Cheeseburger Duplo,Hambúrguer,Acompanhamento,70.62

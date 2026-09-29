@@ -1,0 +1,51 @@
+restaurante_id,nome,categoria,cidade,uf,regiao,taxa_entrega,tempo_medio_min,data_abertura
+1,Pizzaria Pereira,Pizzaria,Rio de Janeiro,RJ,Sudeste,7.45,34,2022-01-24
+2,Hambúrguer Nascimento,Hambúrguer,Rio de Janeiro,RJ,Sudeste,9.22,30,2020-04-05
+3,Brasileira Almeida,Brasileira,Curitiba,PR,Sul,11.02,47,2020-07-22
+4,Vegetariana Souza,Vegetariana,Brasília,DF,Centro-Oeste,9.49,38,2022-04-08
+5,Japonesa Ferreira,Japonesa,São Paulo,SP,Sudeste,8.4,34,2020-08-08
+6,Hambúrguer Santos,Hambúrguer,Salvador,BA,Nordeste,8.8,41,2022-05-17
+7,Italiana Silva,Italiana,Salvador,BA,Nordeste,12.3,47,2020-05-07
+8,Hambúrguer Almeida,Hambúrguer,Recife,PE,Nordeste,7.93,50,2021-09-25
+9,Brasileira Santos,Brasileira,Salvador,BA,Nordeste,5.46,37,2022-03-02
+10,Hambúrguer Souza,Hambúrguer,Porto Alegre,RS,Sul,13.66,42,2020-10-11
+11,Árabe Oliveira,Árabe,Fortaleza,CE,Nordeste,8.7,36,2021-11-17
+12,Hambúrguer Nascimento,Hambúrguer,Porto Alegre,RS,Sul,11.35,47,2022-01-16
+13,Japonesa Rodrigues,Japonesa,Curitiba,PR,Sul,8.79,59,2021-10-17
+14,Brasileira Costa,Brasileira,Brasília,DF,Centro-Oeste,13.43,54,2020-02-27
+15,Pizzaria Costa,Pizzaria,Curitiba,PR,Sul,9.01,32,2020-08-04
+16,Árabe Souza,Árabe,Goiânia,GO,Centro-Oeste,11.55,42,2022-06-24
+17,Japonesa Pereira,Japonesa,Fortaleza,CE,Nordeste,6.4,53,2021-07-28
+18,Italiana Nascimento,Italiana,Brasília,DF,Centro-Oeste,9.28,48,2021-02-12
+19,Brasileira Oliveira,Brasileira,Salvador,BA,Nordeste,10.1,32,2022-02-12
+20,Hambúrguer Oliveira,Hambúrguer,São Paulo,SP,Sudeste,11.27,55,2021-11-27
+21,Hambúrguer Ferreira,Hambúrguer,Recife,PE,Nordeste,8.82,44,2021-06-25
+22,Pizzaria Santos,Pizzaria,Porto Alegre,RS,Sul,11.82,47,2022-02-07
+23,Árabe Santos,Árabe,Porto Alegre,RS,Sul,7.94,35,2021-04-09
+24,Italiana Almeida,Italiana,São Paulo,SP,Sudeste,12.62,46,2022-07-23
+25,Italiana Almeida,Italiana,Rio de Janeiro,RJ,Sudeste,11.09,34,2021-01-17
+26,Pizzaria Nascimento,Pizzaria,Belo Horizonte,MG,Sudeste,8.24,30,2020-04-24
+27,Italiana Souza,Italiana,Salvador,BA,Nordeste,5.58,58,2021-08-03
+28,Hambúrguer Rodrigues,Hambúrguer,Rio de Janeiro,RJ,Sudeste,13.16,54,2021-06-29
+29,Japonesa Rodrigues,Japonesa,Belo Horizonte,MG,Sudeste,14.47,35,2020-09-28
+30,Vegetariana Souza,Vegetariana,Brasília,DF,Centro-Oeste,14.29,54,2022-01-17
+31,Italiana Ferreira,Italiana,Curitiba,PR,Sul,14.95,50,2021-01-17
+32,Doces & Bolos Santos,Doces & Bolos,Fortaleza,CE,Nordeste,7.48,32,2020-12-12
+33,Brasileira Nascimento,Brasileira,São Paulo,SP,Sudeste,7.2,32,2021-12-25
+34,Brasileira Santos,Brasileira,São Paulo,SP,Sudeste,14.05,57,2020-12-04
+35,Brasileira Pereira,Brasileira,Rio de Janeiro,RJ,Sudeste,11.69,36,2021-07-06
+36,Doces & Bolos Souza,Doces & Bolos,Belo Horizonte,MG,Sudeste,12.85,55,2021-02-20
+37,Hambúrguer Santos,Hambúrguer,Curitiba,PR,Sul,11.59,41,2021-03-09
+38,Doces & Bolos Silva,Doces & Bolos,Recife,PE,Nordeste,11.73,50,2020-04-10
+39,Vegetariana Costa,Vegetariana,São Paulo,SP,Sudeste,13.01,33,2020-09-11
+40,Brasileira Almeida,Brasileira,Curitiba,PR,Sul,9.49,43,2020-07-06
+41,Doces & Bolos Souza,Doces & Bolos,Porto Alegre,RS,Sul,13.74,32,2021-03-29
+42,Hambúrguer Silva,Hambúrguer,Brasília,DF,Centro-Oeste,11.52,47,2022-05-06
+43,Hambúrguer Souza,Hambúrguer,São Paulo,SP,Sudeste,6.66,45,2021-05-07
+44,Vegetariana Silva,Vegetariana,Curitiba,PR,Sul,6.65,30,2021-02-03
+45,Doces & Bolos Pereira,Doces & Bolos,Porto Alegre,RS,Sul,9.23,60,2022-01-18
+46,Doces & Bolos Oliveira,Doces & Bolos,Brasília,DF,Centro-Oeste,6.9,36,2022-09-18
+47,Pizzaria Costa,Pizzaria,São Paulo,SP,Sudeste,5.57,48,2021-05-03
+48,Japonesa Silva,Japonesa,Brasília,DF,Centro-Oeste,14.61,32,2022-05-21
+49,Hambúrguer Nascimento,Hambúrguer,Belo Horizonte,MG,Sudeste,5.68,57,2020-08-28
+50,Hambúrguer Nascimento,Hambúrguer,Recife,PE,Nordeste,7.46,49,2020-02-10

@@ -1,0 +1,501 @@
+cliente_id,nome,email,cidade,uf,regiao,idade,plano,data_cadastro
+1,Alice Andrade,alice.andrade@exemplo.com,Goiânia,GO,Centro-Oeste,54,Premium,2023-04-24
+2,Arthur Andrade,arthur.andrade@exemplo.com,Porto Alegre,RS,Sul,34,Premium,2022-03-09
+3,Bernardo Andrade,bernardo.andrade@exemplo.com,Porto Alegre,RS,Sul,18,Premium,2022-11-15
+4,Bianca Andrade,bianca.andrade@exemplo.com,Goiânia,GO,Centro-Oeste,31,Premium,2022-03-09
+5,Caio Andrade,caio.andrade@exemplo.com,Salvador,BA,Nordeste,36,Grátis,2022-08-13
+6,Clara Andrade,clara.andrade@exemplo.com,Brasília,DF,Centro-Oeste,18,Premium,2023-04-23
+7,Daniel Andrade,daniel.andrade@exemplo.com,Rio de Janeiro,RJ,Sudeste,24,Grátis,2022-05-20
+8,Diana Andrade,diana.andrade@exemplo.com,Porto Alegre,RS,Sul,61,Premium,2022-09-16
+9,Eduardo Andrade,eduardo.andrade@exemplo.com,Fortaleza,CE,Nordeste,58,Premium,2023-03-01
+10,Elena Andrade,elena.andrade@exemplo.com,Porto Alegre,RS,Sul,67,Grátis,2022-11-23
+11,Fábio Andrade,fabio.andrade@exemplo.com,Porto Alegre,RS,Sul,63,Premium,2022-10-15
+12,Fabiana Andrade,fabiana.andrade@exemplo.com,São Paulo,SP,Sudeste,52,Grátis,2023-03-04
+13,Gustavo Andrade,gustavo.andrade@exemplo.com,Salvador,BA,Nordeste,20,Premium,2022-07-06
+14,Giovanna Andrade,giovanna.andrade@exemplo.com,São Paulo,SP,Sudeste,60,Grátis,2022-07-01
+15,Heitor Andrade,heitor.andrade@exemplo.com,Brasília,DF,Centro-Oeste,33,Grátis,2023-05-15
+16,Helena Andrade,helena.andrade@exemplo.com,Belo Horizonte,MG,Sudeste,65,Premium,2023-02-05
+17,Igor Andrade,igor.andrade@exemplo.com,Recife,PE,Nordeste,68,Grátis,2022-07-15
+18,Ingrid Andrade,ingrid.andrade@exemplo.com,São Paulo,SP,Sudeste,70,Premium,2022-06-29
+19,Júlio Andrade,julio.andrade@exemplo.com,Porto Alegre,RS,Sul,60,Grátis,2022-07-24
+20,Juliana Andrade,juliana.andrade@exemplo.com,Salvador,BA,Nordeste,40,Premium,2022-12-14
+21,Kaique Andrade,kaique.andrade@exemplo.com,Brasília,DF,Centro-Oeste,34,Grátis,2022-10-25
+22,Karen Andrade,karen.andrade@exemplo.com,Porto Alegre,RS,Sul,45,Premium,2023-01-09
+23,Leonardo Andrade,leonardo.andrade@exemplo.com,Salvador,BA,Nordeste,25,Premium,2023-04-06
+24,Lorena Andrade,lorena.andrade@exemplo.com,Goiânia,GO,Centro-Oeste,63,Premium,2022-01-01
+25,Márcio Andrade,marcio.andrade@exemplo.com,Brasília,DF,Centro-Oeste,22,Premium,2022-11-16
+26,Melissa Andrade,melissa.andrade@exemplo.com,Salvador,BA,Nordeste,37,Premium,2022-06-17
+27,Nathan Andrade,nathan.andrade@exemplo.com,Recife,PE,Nordeste,30,Premium,2022-12-07
+28,Natália Andrade,natalia.andrade@exemplo.com,Recife,PE,Nordeste,37,Premium,2022-10-08
+29,Otávio Andrade,otavio.andrade@exemplo.com,São Paulo,SP,Sudeste,45,Premium,2022-08-27
+30,Olívia Andrade,olivia.andrade@exemplo.com,Fortaleza,CE,Nordeste,48,Grátis,2022-12-04
+31,Paulo Andrade,paulo.andrade@exemplo.com,Rio de Janeiro,RJ,Sudeste,39,Grátis,2023-02-24
+32,Priscila Andrade,priscila.andrade@exemplo.com,Curitiba,PR,Sul,27,Grátis,2022-01-24
+33,Raul Andrade,raul.andrade@exemplo.com,Curitiba,PR,Sul,47,Premium,2023-03-30
+34,Renata Andrade,renata.andrade@exemplo.com,Goiânia,GO,Centro-Oeste,43,Grátis,2022-03-17
+35,Sérgio Andrade,sergio.andrade@exemplo.com,São Paulo,SP,Sudeste,29,Premium,2022-01-26
+36,Sabrina Andrade,sabrina.andrade@exemplo.com,Brasília,DF,Centro-Oeste,26,Premium,2022-12-08
+37,Tiago Andrade,tiago.andrade@exemplo.com,Brasília,DF,Centro-Oeste,70,Premium,2023-03-02
+38,Tainá Andrade,taina.andrade@exemplo.com,Brasília,DF,Centro-Oeste,46,Premium,2023-01-20
+39,Vítor Andrade,vitor.andrade@exemplo.com,Curitiba,PR,Sul,58,Grátis,2022-05-21
+40,Valentina Andrade,valentina.andrade@exemplo.com,Fortaleza,CE,Nordeste,35,Premium,2022-06-13
+41,Wesley Andrade,wesley.andrade@exemplo.com,Brasília,DF,Centro-Oeste,32,Premium,2022-12-22
+42,Yara Andrade,yara.andrade@exemplo.com,Belo Horizonte,MG,Sudeste,44,Premium,2022-10-05
+43,Bruno Andrade,bruno.andrade@exemplo.com,Fortaleza,CE,Nordeste,44,Premium,2023-04-09
+44,Cecília Andrade,cecilia.andrade@exemplo.com,Goiânia,GO,Centro-Oeste,48,Grátis,2023-04-28
+45,Diego Andrade,diego.andrade@exemplo.com,Salvador,BA,Nordeste,52,Grátis,2022-09-07
+46,Eloá Andrade,eloa.andrade@exemplo.com,Curitiba,PR,Sul,19,Premium,2022-06-22
+47,Frederico Andrade,frederico.andrade@exemplo.com,Recife,PE,Nordeste,57,Grátis,2023-04-10
+48,Gabriela Andrade,gabriela.andrade@exemplo.com,Recife,PE,Nordeste,26,Premium,2022-04-04
+49,Henrique Andrade,henrique.andrade@exemplo.com,São Paulo,SP,Sudeste,31,Premium,2022-06-17
+50,Isadora Andrade,isadora.andrade@exemplo.com,Salvador,BA,Nordeste,34,Grátis,2022-08-29
+51,Alice Barbosa,alice.barbosa@exemplo.com,São Paulo,SP,Sudeste,59,Grátis,2023-02-04
+52,Arthur Barbosa,arthur.barbosa@exemplo.com,São Paulo,SP,Sudeste,19,Grátis,2022-05-03
+53,Bernardo Barbosa,bernardo.barbosa@exemplo.com,Belo Horizonte,MG,Sudeste,31,Premium,2022-12-25
+54,Bianca Barbosa,bianca.barbosa@exemplo.com,Porto Alegre,RS,Sul,56,Grátis,2023-02-03
+55,Caio Barbosa,caio.barbosa@exemplo.com,Belo Horizonte,MG,Sudeste,19,Premium,2022-10-22
+56,Clara Barbosa,clara.barbosa@exemplo.com,Recife,PE,Nordeste,55,Grátis,2022-02-22
+57,Daniel Barbosa,daniel.barbosa@exemplo.com,Porto Alegre,RS,Sul,40,Premium,2022-12-05
+58,Diana Barbosa,diana.barbosa@exemplo.com,Salvador,BA,Nordeste,18,Premium,2023-02-26
+59,Eduardo Barbosa,eduardo.barbosa@exemplo.com,Fortaleza,CE,Nordeste,58,Premium,2022-12-29
+60,Elena Barbosa,elena.barbosa@exemplo.com,Belo Horizonte,MG,Sudeste,59,Premium,2022-11-12
+61,Fábio Barbosa,fabio.barbosa@exemplo.com,Brasília,DF,Centro-Oeste,70,Premium,2022-06-15
+62,Fabiana Barbosa,fabiana.barbosa@exemplo.com,Curitiba,PR,Sul,33,Premium,2022-10-19
+63,Gustavo Barbosa,gustavo.barbosa@exemplo.com,Goiânia,GO,Centro-Oeste,49,Premium,2022-04-04
+64,Giovanna Barbosa,giovanna.barbosa@exemplo.com,Fortaleza,CE,Nordeste,39,Premium,2023-03-27
+65,Heitor Barbosa,heitor.barbosa@exemplo.com,Goiânia,GO,Centro-Oeste,51,Grátis,2022-02-13
+66,Helena Barbosa,helena.barbosa@exemplo.com,Curitiba,PR,Sul,66,Grátis,2022-12-20
+67,Igor Barbosa,igor.barbosa@exemplo.com,Fortaleza,CE,Nordeste,23,Premium,2022-04-24
+68,Ingrid Barbosa,ingrid.barbosa@exemplo.com,Recife,PE,Nordeste,41,Premium,2022-10-11
+69,Júlio Barbosa,julio.barbosa@exemplo.com,Brasília,DF,Centro-Oeste,39,Premium,2022-12-26
+70,Juliana Barbosa,juliana.barbosa@exemplo.com,Fortaleza,CE,Nordeste,32,Grátis,2023-01-05
+71,Kaique Barbosa,kaique.barbosa@exemplo.com,Curitiba,PR,Sul,66,Grátis,2022-04-09
+72,Karen Barbosa,karen.barbosa@exemplo.com,Curitiba,PR,Sul,66,Premium,2022-02-21
+73,Leonardo Barbosa,leonardo.barbosa@exemplo.com,Curitiba,PR,Sul,29,Premium,2022-01-08
+74,Lorena Barbosa,lorena.barbosa@exemplo.com,Brasília,DF,Centro-Oeste,21,Premium,2022-12-24
+75,Márcio Barbosa,marcio.barbosa@exemplo.com,Belo Horizonte,MG,Sudeste,54,Premium,2022-08-29
+76,Melissa Barbosa,melissa.barbosa@exemplo.com,Fortaleza,CE,Nordeste,21,Premium,2023-04-27
+77,Nathan Barbosa,nathan.barbosa@exemplo.com,Fortaleza,CE,Nordeste,49,Grátis,2022-10-23
+78,Natália Barbosa,natalia.barbosa@exemplo.com,São Paulo,SP,Sudeste,37,Grátis,2022-05-08
+79,Otávio Barbosa,otavio.barbosa@exemplo.com,Rio de Janeiro,RJ,Sudeste,68,Grátis,2023-02-02
+80,Olívia Barbosa,olivia.barbosa@exemplo.com,Brasília,DF,Centro-Oeste,37,Premium,2022-06-06
+81,Paulo Barbosa,paulo.barbosa@exemplo.com,Goiânia,GO,Centro-Oeste,66,Grátis,2022-11-17
+82,Priscila Barbosa,priscila.barbosa@exemplo.com,Curitiba,PR,Sul,33,Grátis,2022-10-10
+83,Raul Barbosa,raul.barbosa@exemplo.com,Rio de Janeiro,RJ,Sudeste,46,Premium,2022-05-30
+84,Renata Barbosa,renata.barbosa@exemplo.com,São Paulo,SP,Sudeste,62,Premium,2022-02-06
+85,Sérgio Barbosa,sergio.barbosa@exemplo.com,Curitiba,PR,Sul,45,Grátis,2022-10-06
+86,Sabrina Barbosa,sabrina.barbosa@exemplo.com,Curitiba,PR,Sul,22,Grátis,2022-03-26
+87,Tiago Barbosa,tiago.barbosa@exemplo.com,Porto Alegre,RS,Sul,47,Premium,2022-12-25
+88,Tainá Barbosa,taina.barbosa@exemplo.com,Recife,PE,Nordeste,49,Premium,2022-02-11
+89,Vítor Barbosa,vitor.barbosa@exemplo.com,Goiânia,GO,Centro-Oeste,56,Premium,2022-01-14
+90,Valentina Barbosa,valentina.barbosa@exemplo.com,Rio de Janeiro,RJ,Sudeste,19,Premium,2022-10-23
+91,Wesley Barbosa,wesley.barbosa@exemplo.com,São Paulo,SP,Sudeste,59,Premium,2023-04-15
+92,Yara Barbosa,yara.barbosa@exemplo.com,Porto Alegre,RS,Sul,58,Premium,2023-05-12
+93,Bruno Barbosa,bruno.barbosa@exemplo.com,Rio de Janeiro,RJ,Sudeste,39,Premium,2022-12-10
+94,Cecília Barbosa,cecilia.barbosa@exemplo.com,Rio de Janeiro,RJ,Sudeste,62,Premium,2022-05-28
+95,Diego Barbosa,diego.barbosa@exemplo.com,Recife,PE,Nordeste,38,Premium,2022-06-15
+96,Eloá Barbosa,eloa.barbosa@exemplo.com,Rio de Janeiro,RJ,Sudeste,60,Premium,2022-07-31
+97,Frederico Barbosa,frederico.barbosa@exemplo.com,São Paulo,SP,Sudeste,57,Premium,2022-11-17
+98,Gabriela Barbosa,gabriela.barbosa@exemplo.com,Fortaleza,CE,Nordeste,53,Grátis,2023-04-20
+99,Henrique Barbosa,henrique.barbosa@exemplo.com,Porto Alegre,RS,Sul,19,Grátis,2022-12-30
+100,Isadora Barbosa,isadora.barbosa@exemplo.com,Belo Horizonte,MG,Sudeste,53,Premium,2022-02-17
+101,Alice Cardoso,alice.cardoso@exemplo.com,Curitiba,PR,Sul,59,Grátis,2022-09-13
+102,Arthur Cardoso,arthur.cardoso@exemplo.com,Porto Alegre,RS,Sul,48,Grátis,2022-08-22
+103,Bernardo Cardoso,bernardo.cardoso@exemplo.com,Brasília,DF,Centro-Oeste,56,Grátis,2023-03-19
+104,Bianca Cardoso,bianca.cardoso@exemplo.com,Rio de Janeiro,RJ,Sudeste,68,Premium,2023-02-25
+105,Caio Cardoso,caio.cardoso@exemplo.com,São Paulo,SP,Sudeste,55,Premium,2023-03-20
+106,Clara Cardoso,clara.cardoso@exemplo.com,Belo Horizonte,MG,Sudeste,40,Premium,2022-10-10
+107,Daniel Cardoso,daniel.cardoso@exemplo.com,Brasília,DF,Centro-Oeste,30,Grátis,2022-10-20
+108,Diana Cardoso,diana.cardoso@exemplo.com,Recife,PE,Nordeste,38,Premium,2022-12-28
+109,Eduardo Cardoso,eduardo.cardoso@exemplo.com,Recife,PE,Nordeste,20,Grátis,2022-09-15
+110,Elena Cardoso,elena.cardoso@exemplo.com,Goiânia,GO,Centro-Oeste,24,Premium,2022-01-08
+111,Fábio Cardoso,fabio.cardoso@exemplo.com,Belo Horizonte,MG,Sudeste,48,Premium,2022-06-23
+112,Fabiana Cardoso,fabiana.cardoso@exemplo.com,Goiânia,GO,Centro-Oeste,61,Premium,2023-05-04
+113,Gustavo Cardoso,gustavo.cardoso@exemplo.com,Salvador,BA,Nordeste,57,Grátis,2022-05-01
+114,Giovanna Cardoso,giovanna.cardoso@exemplo.com,Porto Alegre,RS,Sul,24,Grátis,2022-08-16
+115,Heitor Cardoso,heitor.cardoso@exemplo.com,Belo Horizonte,MG,Sudeste,38,Grátis,2022-05-31
+116,Helena Cardoso,helena.cardoso@exemplo.com,Salvador,BA,Nordeste,33,Premium,2022-10-17
+117,Igor Cardoso,igor.cardoso@exemplo.com,Belo Horizonte,MG,Sudeste,57,Premium,2022-11-14
+118,Ingrid Cardoso,ingrid.cardoso@exemplo.com,Curitiba,PR,Sul,32,Premium,2022-11-23
+119,Júlio Cardoso,julio.cardoso@exemplo.com,Porto Alegre,RS,Sul,69,Premium,2023-04-07
+120,Juliana Cardoso,juliana.cardoso@exemplo.com,Porto Alegre,RS,Sul,40,Premium,2022-11-24
+121,Kaique Cardoso,kaique.cardoso@exemplo.com,Recife,PE,Nordeste,30,Premium,2023-03-13
+122,Karen Cardoso,karen.cardoso@exemplo.com,Fortaleza,CE,Nordeste,54,Premium,2022-10-22
+123,Leonardo Cardoso,leonardo.cardoso@exemplo.com,Porto Alegre,RS,Sul,35,Grátis,2022-10-17
+124,Lorena Cardoso,lorena.cardoso@exemplo.com,São Paulo,SP,Sudeste,56,Premium,2022-04-23
+125,Márcio Cardoso,marcio.cardoso@exemplo.com,Curitiba,PR,Sul,58,Grátis,2022-06-08
+126,Melissa Cardoso,melissa.cardoso@exemplo.com,Fortaleza,CE,Nordeste,64,Grátis,2022-02-16
+127,Nathan Cardoso,nathan.cardoso@exemplo.com,Porto Alegre,RS,Sul,30,Grátis,2023-02-07
+128,Natália Cardoso,natalia.cardoso@exemplo.com,Brasília,DF,Centro-Oeste,35,Grátis,2022-05-12
+129,Otávio Cardoso,otavio.cardoso@exemplo.com,Fortaleza,CE,Nordeste,47,Grátis,2022-03-14
+130,Olívia Cardoso,olivia.cardoso@exemplo.com,Curitiba,PR,Sul,23,Premium,2022-01-08
+131,Paulo Cardoso,paulo.cardoso@exemplo.com,Porto Alegre,RS,Sul,61,Premium,2022-10-27
+132,Priscila Cardoso,priscila.cardoso@exemplo.com,Recife,PE,Nordeste,48,Grátis,2022-11-14
+133,Raul Cardoso,raul.cardoso@exemplo.com,Brasília,DF,Centro-Oeste,59,Grátis,2022-11-22
+134,Renata Cardoso,renata.cardoso@exemplo.com,Fortaleza,CE,Nordeste,26,Grátis,2023-04-30
+135,Sérgio Cardoso,sergio.cardoso@exemplo.com,São Paulo,SP,Sudeste,24,Grátis,2023-03-31
+136,Sabrina Cardoso,sabrina.cardoso@exemplo.com,Brasília,DF,Centro-Oeste,41,Premium,2022-10-28
+137,Tiago Cardoso,tiago.cardoso@exemplo.com,Belo Horizonte,MG,Sudeste,57,Premium,2023-04-26
+138,Tainá Cardoso,taina.cardoso@exemplo.com,Porto Alegre,RS,Sul,46,Premium,2023-05-02
+139,Vítor Cardoso,vitor.cardoso@exemplo.com,Curitiba,PR,Sul,52,Premium,2022-02-01
+140,Valentina Cardoso,valentina.cardoso@exemplo.com,Recife,PE,Nordeste,70,Premium,2022-02-16
+141,Wesley Cardoso,wesley.cardoso@exemplo.com,Curitiba,PR,Sul,33,Grátis,2023-02-07
+142,Yara Cardoso,yara.cardoso@exemplo.com,Goiânia,GO,Centro-Oeste,31,Grátis,2023-02-21
+143,Bruno Cardoso,bruno.cardoso@exemplo.com,Curitiba,PR,Sul,18,Premium,2023-03-16
+144,Cecília Cardoso,cecilia.cardoso@exemplo.com,Belo Horizonte,MG,Sudeste,69,Grátis,2022-02-26
+145,Diego Cardoso,diego.cardoso@exemplo.com,São Paulo,SP,Sudeste,68,Grátis,2022-10-29
+146,Eloá Cardoso,eloa.cardoso@exemplo.com,Salvador,BA,Nordeste,21,Grátis,2023-01-15
+147,Frederico Cardoso,frederico.cardoso@exemplo.com,Recife,PE,Nordeste,46,Premium,2022-09-20
+148,Gabriela Cardoso,gabriela.cardoso@exemplo.com,Goiânia,GO,Centro-Oeste,32,Grátis,2023-01-08
+149,Henrique Cardoso,henrique.cardoso@exemplo.com,Brasília,DF,Centro-Oeste,21,Premium,2023-03-10
+150,Isadora Cardoso,isadora.cardoso@exemplo.com,Recife,PE,Nordeste,63,Premium,2022-02-07
+151,Alice Dias,alice.dias@exemplo.com,Rio de Janeiro,RJ,Sudeste,22,Grátis,2022-05-21
+152,Arthur Dias,arthur.dias@exemplo.com,Goiânia,GO,Centro-Oeste,51,Premium,2022-08-21
+153,Bernardo Dias,bernardo.dias@exemplo.com,Brasília,DF,Centro-Oeste,59,Grátis,2022-08-09
+154,Bianca Dias,bianca.dias@exemplo.com,Fortaleza,CE,Nordeste,70,Premium,2022-07-24
+155,Caio Dias,caio.dias@exemplo.com,Recife,PE,Nordeste,38,Premium,2022-07-11
+156,Clara Dias,clara.dias@exemplo.com,Belo Horizonte,MG,Sudeste,23,Grátis,2022-08-10
+157,Daniel Dias,daniel.dias@exemplo.com,Rio de Janeiro,RJ,Sudeste,21,Premium,2022-12-10
+158,Diana Dias,diana.dias@exemplo.com,Rio de Janeiro,RJ,Sudeste,64,Grátis,2023-05-11
+159,Eduardo Dias,eduardo.dias@exemplo.com,Porto Alegre,RS,Sul,54,Grátis,2022-03-21
+160,Elena Dias,elena.dias@exemplo.com,Fortaleza,CE,Nordeste,53,Premium,2022-02-28
+161,Fábio Dias,fabio.dias@exemplo.com,Porto Alegre,RS,Sul,67,Grátis,2022-11-08
+162,Fabiana Dias,fabiana.dias@exemplo.com,Porto Alegre,RS,Sul,62,Premium,2023-04-17
+163,Gustavo Dias,gustavo.dias@exemplo.com,Salvador,BA,Nordeste,27,Premium,2022-02-05
+164,Giovanna Dias,giovanna.dias@exemplo.com,Belo Horizonte,MG,Sudeste,31,Premium,2022-08-03
+165,Heitor Dias,heitor.dias@exemplo.com,Fortaleza,CE,Nordeste,37,Premium,2023-02-02
+166,Helena Dias,helena.dias@exemplo.com,Goiânia,GO,Centro-Oeste,28,Grátis,2022-12-12
+167,Igor Dias,igor.dias@exemplo.com,Rio de Janeiro,RJ,Sudeste,49,Premium,2022-08-01
+168,Ingrid Dias,ingrid.dias@exemplo.com,Porto Alegre,RS,Sul,40,Premium,2022-02-26
+169,Júlio Dias,julio.dias@exemplo.com,Porto Alegre,RS,Sul,20,Grátis,2022-07-22
+170,Juliana Dias,juliana.dias@exemplo.com,Goiânia,GO,Centro-Oeste,37,Grátis,2023-01-28
+171,Kaique Dias,kaique.dias@exemplo.com,Belo Horizonte,MG,Sudeste,25,Grátis,2022-09-12
+172,Karen Dias,karen.dias@exemplo.com,Recife,PE,Nordeste,52,Grátis,2022-09-14
+173,Leonardo Dias,leonardo.dias@exemplo.com,Brasília,DF,Centro-Oeste,65,Grátis,2022-08-12
+174,Lorena Dias,lorena.dias@exemplo.com,São Paulo,SP,Sudeste,54,Premium,2022-10-21
+175,Márcio Dias,marcio.dias@exemplo.com,Recife,PE,Nordeste,43,Grátis,2023-05-10
+176,Melissa Dias,melissa.dias@exemplo.com,Salvador,BA,Nordeste,62,Premium,2022-02-15
+177,Nathan Dias,nathan.dias@exemplo.com,Recife,PE,Nordeste,55,Premium,2022-09-26
+178,Natália Dias,natalia.dias@exemplo.com,Rio de Janeiro,RJ,Sudeste,32,Premium,2023-02-03
+179,Otávio Dias,otavio.dias@exemplo.com,Belo Horizonte,MG,Sudeste,51,Grátis,2023-04-09
+180,Olívia Dias,olivia.dias@exemplo.com,Salvador,BA,Nordeste,24,Grátis,2022-05-12
+181,Paulo Dias,paulo.dias@exemplo.com,Curitiba,PR,Sul,66,Grátis,2022-04-01
+182,Priscila Dias,priscila.dias@exemplo.com,Fortaleza,CE,Nordeste,46,Premium,2023-03-19
+183,Raul Dias,raul.dias@exemplo.com,Salvador,BA,Nordeste,48,Premium,2022-11-20
+184,Renata Dias,renata.dias@exemplo.com,Porto Alegre,RS,Sul,40,Grátis,2022-06-08
+185,Sérgio Dias,sergio.dias@exemplo.com,Fortaleza,CE,Nordeste,41,Premium,2022-02-09
+186,Sabrina Dias,sabrina.dias@exemplo.com,Rio de Janeiro,RJ,Sudeste,53,Grátis,2022-08-19
+187,Tiago Dias,tiago.dias@exemplo.com,Goiânia,GO,Centro-Oeste,48,Grátis,2023-05-06
+188,Tainá Dias,taina.dias@exemplo.com,São Paulo,SP,Sudeste,63,Grátis,2022-09-16
+189,Vítor Dias,vitor.dias@exemplo.com,Belo Horizonte,MG,Sudeste,46,Grátis,2022-07-06
+190,Valentina Dias,valentina.dias@exemplo.com,Salvador,BA,Nordeste,67,Premium,2022-12-14
+191,Wesley Dias,wesley.dias@exemplo.com,Goiânia,GO,Centro-Oeste,39,Grátis,2022-10-13
+192,Yara Dias,yara.dias@exemplo.com,Recife,PE,Nordeste,27,Premium,2022-02-11
+193,Bruno Dias,bruno.dias@exemplo.com,Goiânia,GO,Centro-Oeste,59,Premium,2022-03-08
+194,Cecília Dias,cecilia.dias@exemplo.com,Goiânia,GO,Centro-Oeste,42,Premium,2023-02-21
+195,Diego Dias,diego.dias@exemplo.com,Belo Horizonte,MG,Sudeste,41,Grátis,2022-07-05
+196,Eloá Dias,eloa.dias@exemplo.com,Porto Alegre,RS,Sul,67,Premium,2022-04-09
+197,Frederico Dias,frederico.dias@exemplo.com,Curitiba,PR,Sul,36,Grátis,2022-09-17
+198,Gabriela Dias,gabriela.dias@exemplo.com,Brasília,DF,Centro-Oeste,26,Premium,2022-03-20
+199,Henrique Dias,henrique.dias@exemplo.com,Belo Horizonte,MG,Sudeste,64,Premium,2022-01-23
+200,Isadora Dias,isadora.dias@exemplo.com,Recife,PE,Nordeste,57,Premium,2023-01-21
+201,Alice Esteves,alice.esteves@exemplo.com,Fortaleza,CE,Nordeste,37,Premium,2023-04-08
+202,Arthur Esteves,arthur.esteves@exemplo.com,Curitiba,PR,Sul,47,Premium,2023-02-03
+203,Bernardo Esteves,bernardo.esteves@exemplo.com,Recife,PE,Nordeste,69,Grátis,2023-03-23
+204,Bianca Esteves,bianca.esteves@exemplo.com,Porto Alegre,RS,Sul,53,Grátis,2022-12-31
+205,Caio Esteves,caio.esteves@exemplo.com,Brasília,DF,Centro-Oeste,66,Grátis,2022-05-20
+206,Clara Esteves,clara.esteves@exemplo.com,Fortaleza,CE,Nordeste,32,Premium,2023-03-29
+207,Daniel Esteves,daniel.esteves@exemplo.com,Salvador,BA,Nordeste,43,Premium,2022-05-01
+208,Diana Esteves,diana.esteves@exemplo.com,Recife,PE,Nordeste,19,Premium,2023-04-22
+209,Eduardo Esteves,eduardo.esteves@exemplo.com,Rio de Janeiro,RJ,Sudeste,20,Premium,2023-04-15
+210,Elena Esteves,elena.esteves@exemplo.com,Fortaleza,CE,Nordeste,57,Grátis,2023-04-09
+211,Fábio Esteves,fabio.esteves@exemplo.com,Rio de Janeiro,RJ,Sudeste,27,Premium,2022-02-26
+212,Fabiana Esteves,fabiana.esteves@exemplo.com,Porto Alegre,RS,Sul,21,Grátis,2022-08-03
+213,Gustavo Esteves,gustavo.esteves@exemplo.com,Goiânia,GO,Centro-Oeste,49,Grátis,2022-11-20
+214,Giovanna Esteves,giovanna.esteves@exemplo.com,Brasília,DF,Centro-Oeste,45,Grátis,2022-11-11
+215,Heitor Esteves,heitor.esteves@exemplo.com,Salvador,BA,Nordeste,29,Grátis,2022-09-26
+216,Helena Esteves,helena.esteves@exemplo.com,Salvador,BA,Nordeste,50,Grátis,2022-07-19
+217,Igor Esteves,igor.esteves@exemplo.com,Fortaleza,CE,Nordeste,34,Grátis,2022-07-02
+218,Ingrid Esteves,ingrid.esteves@exemplo.com,Rio de Janeiro,RJ,Sudeste,67,Premium,2022-03-10
+219,Júlio Esteves,julio.esteves@exemplo.com,São Paulo,SP,Sudeste,70,Grátis,2023-03-02
+220,Juliana Esteves,juliana.esteves@exemplo.com,Fortaleza,CE,Nordeste,22,Premium,2022-01-19
+221,Kaique Esteves,kaique.esteves@exemplo.com,Porto Alegre,RS,Sul,20,Premium,2023-04-23
+222,Karen Esteves,karen.esteves@exemplo.com,Porto Alegre,RS,Sul,34,Grátis,2023-01-21
+223,Leonardo Esteves,leonardo.esteves@exemplo.com,Curitiba,PR,Sul,59,Premium,2022-05-20
+224,Lorena Esteves,lorena.esteves@exemplo.com,Rio de Janeiro,RJ,Sudeste,65,Premium,2023-04-04
+225,Márcio Esteves,marcio.esteves@exemplo.com,Recife,PE,Nordeste,62,Premium,2022-07-08
+226,Melissa Esteves,melissa.esteves@exemplo.com,Brasília,DF,Centro-Oeste,23,Premium,2022-11-05
+227,Nathan Esteves,nathan.esteves@exemplo.com,Belo Horizonte,MG,Sudeste,23,Premium,2022-12-05
+228,Natália Esteves,natalia.esteves@exemplo.com,Porto Alegre,RS,Sul,63,Premium,2022-03-27
+229,Otávio Esteves,otavio.esteves@exemplo.com,Fortaleza,CE,Nordeste,64,Premium,2022-11-11
+230,Olívia Esteves,olivia.esteves@exemplo.com,Recife,PE,Nordeste,60,Premium,2022-07-06
+231,Paulo Esteves,paulo.esteves@exemplo.com,Brasília,DF,Centro-Oeste,56,Premium,2022-01-18
+232,Priscila Esteves,priscila.esteves@exemplo.com,Belo Horizonte,MG,Sudeste,41,Premium,2023-05-02
+233,Raul Esteves,raul.esteves@exemplo.com,Goiânia,GO,Centro-Oeste,61,Premium,2023-05-01
+234,Renata Esteves,renata.esteves@exemplo.com,Salvador,BA,Nordeste,54,Grátis,2022-09-29
+235,Sérgio Esteves,sergio.esteves@exemplo.com,Salvador,BA,Nordeste,33,Grátis,2022-01-14
+236,Sabrina Esteves,sabrina.esteves@exemplo.com,Belo Horizonte,MG,Sudeste,53,Grátis,2022-05-15
+237,Tiago Esteves,tiago.esteves@exemplo.com,Porto Alegre,RS,Sul,36,Premium,2022-04-13
+238,Tainá Esteves,taina.esteves@exemplo.com,Rio de Janeiro,RJ,Sudeste,29,Premium,2022-02-14
+239,Vítor Esteves,vitor.esteves@exemplo.com,Salvador,BA,Nordeste,52,Premium,2023-04-02
+240,Valentina Esteves,valentina.esteves@exemplo.com,Porto Alegre,RS,Sul,50,Grátis,2022-03-04
+241,Wesley Esteves,wesley.esteves@exemplo.com,Curitiba,PR,Sul,19,Premium,2022-10-11
+242,Yara Esteves,yara.esteves@exemplo.com,Goiânia,GO,Centro-Oeste,26,Grátis,2022-02-03
+243,Bruno Esteves,bruno.esteves@exemplo.com,Porto Alegre,RS,Sul,44,Premium,2023-02-26
+244,Cecília Esteves,cecilia.esteves@exemplo.com,Goiânia,GO,Centro-Oeste,59,Grátis,2022-08-19
+245,Diego Esteves,diego.esteves@exemplo.com,Fortaleza,CE,Nordeste,58,Grátis,2023-01-29
+246,Eloá Esteves,eloa.esteves@exemplo.com,Belo Horizonte,MG,Sudeste,25,Grátis,2022-06-05
+247,Frederico Esteves,frederico.esteves@exemplo.com,Belo Horizonte,MG,Sudeste,40,Premium,2023-03-10
+248,Gabriela Esteves,gabriela.esteves@exemplo.com,Rio de Janeiro,RJ,Sudeste,35,Grátis,2022-11-17
+249,Henrique Esteves,henrique.esteves@exemplo.com,Porto Alegre,RS,Sul,55,Grátis,2022-03-29
+250,Isadora Esteves,isadora.esteves@exemplo.com,Goiânia,GO,Centro-Oeste,70,Grátis,2022-02-11
+251,Alice Fonseca,alice.fonseca@exemplo.com,São Paulo,SP,Sudeste,44,Grátis,2022-09-12
+252,Arthur Fonseca,arthur.fonseca@exemplo.com,Brasília,DF,Centro-Oeste,33,Premium,2022-06-02
+253,Bernardo Fonseca,bernardo.fonseca@exemplo.com,Fortaleza,CE,Nordeste,46,Premium,2022-09-05
+254,Bianca Fonseca,bianca.fonseca@exemplo.com,Fortaleza,CE,Nordeste,27,Premium,2023-03-18
+255,Caio Fonseca,caio.fonseca@exemplo.com,Salvador,BA,Nordeste,66,Premium,2022-09-21
+256,Clara Fonseca,clara.fonseca@exemplo.com,Brasília,DF,Centro-Oeste,47,Grátis,2022-05-17
+257,Daniel Fonseca,daniel.fonseca@exemplo.com,Fortaleza,CE,Nordeste,21,Premium,2023-04-30
+258,Diana Fonseca,diana.fonseca@exemplo.com,Recife,PE,Nordeste,70,Premium,2023-04-24
+259,Eduardo Fonseca,eduardo.fonseca@exemplo.com,Goiânia,GO,Centro-Oeste,49,Premium,2022-09-13
+260,Elena Fonseca,elena.fonseca@exemplo.com,Porto Alegre,RS,Sul,43,Premium,2023-05-10
+261,Fábio Fonseca,fabio.fonseca@exemplo.com,Curitiba,PR,Sul,21,Grátis,2022-05-25
+262,Fabiana Fonseca,fabiana.fonseca@exemplo.com,Fortaleza,CE,Nordeste,18,Grátis,2022-08-09
+263,Gustavo Fonseca,gustavo.fonseca@exemplo.com,Belo Horizonte,MG,Sudeste,41,Grátis,2022-07-25
+264,Giovanna Fonseca,giovanna.fonseca@exemplo.com,São Paulo,SP,Sudeste,36,Grátis,2022-07-17
+265,Heitor Fonseca,heitor.fonseca@exemplo.com,Brasília,DF,Centro-Oeste,70,Grátis,2022-03-07
+266,Helena Fonseca,helena.fonseca@exemplo.com,Rio de Janeiro,RJ,Sudeste,53,Premium,2023-01-22
+267,Igor Fonseca,igor.fonseca@exemplo.com,Belo Horizonte,MG,Sudeste,43,Grátis,2022-01-24
+268,Ingrid Fonseca,ingrid.fonseca@exemplo.com,São Paulo,SP,Sudeste,51,Premium,2022-03-18
+269,Júlio Fonseca,julio.fonseca@exemplo.com,Goiânia,GO,Centro-Oeste,38,Grátis,2022-07-21
+270,Juliana Fonseca,juliana.fonseca@exemplo.com,Goiânia,GO,Centro-Oeste,50,Premium,2022-12-29
+271,Kaique Fonseca,kaique.fonseca@exemplo.com,Goiânia,GO,Centro-Oeste,41,Premium,2022-12-11
+272,Karen Fonseca,karen.fonseca@exemplo.com,Rio de Janeiro,RJ,Sudeste,68,Grátis,2022-11-02
+273,Leonardo Fonseca,leonardo.fonseca@exemplo.com,Fortaleza,CE,Nordeste,32,Grátis,2022-10-26
+274,Lorena Fonseca,lorena.fonseca@exemplo.com,Fortaleza,CE,Nordeste,67,Premium,2022-03-17
+275,Márcio Fonseca,marcio.fonseca@exemplo.com,Curitiba,PR,Sul,30,Grátis,2022-08-14
+276,Melissa Fonseca,melissa.fonseca@exemplo.com,Salvador,BA,Nordeste,62,Grátis,2022-07-30
+277,Nathan Fonseca,nathan.fonseca@exemplo.com,Brasília,DF,Centro-Oeste,51,Grátis,2022-10-15
+278,Natália Fonseca,natalia.fonseca@exemplo.com,Salvador,BA,Nordeste,38,Grátis,2022-08-24
+279,Otávio Fonseca,otavio.fonseca@exemplo.com,Brasília,DF,Centro-Oeste,61,Premium,2022-11-09
+280,Olívia Fonseca,olivia.fonseca@exemplo.com,Fortaleza,CE,Nordeste,53,Premium,2022-04-26
+281,Paulo Fonseca,paulo.fonseca@exemplo.com,Porto Alegre,RS,Sul,38,Premium,2022-06-28
+282,Priscila Fonseca,priscila.fonseca@exemplo.com,Brasília,DF,Centro-Oeste,54,Premium,2023-04-04
+283,Raul Fonseca,raul.fonseca@exemplo.com,Recife,PE,Nordeste,20,Premium,2023-05-05
+284,Renata Fonseca,renata.fonseca@exemplo.com,Rio de Janeiro,RJ,Sudeste,65,Premium,2022-04-20
+285,Sérgio Fonseca,sergio.fonseca@exemplo.com,Curitiba,PR,Sul,26,Grátis,2022-11-12
+286,Sabrina Fonseca,sabrina.fonseca@exemplo.com,Goiânia,GO,Centro-Oeste,60,Grátis,2022-11-23
+287,Tiago Fonseca,tiago.fonseca@exemplo.com,Curitiba,PR,Sul,39,Premium,2022-02-21
+288,Tainá Fonseca,taina.fonseca@exemplo.com,Belo Horizonte,MG,Sudeste,44,Premium,2022-09-02
+289,Vítor Fonseca,vitor.fonseca@exemplo.com,Curitiba,PR,Sul,59,Grátis,2023-04-10
+290,Valentina Fonseca,valentina.fonseca@exemplo.com,Rio de Janeiro,RJ,Sudeste,29,Premium,2023-03-28
+291,Wesley Fonseca,wesley.fonseca@exemplo.com,Belo Horizonte,MG,Sudeste,29,Premium,2023-03-25
+292,Yara Fonseca,yara.fonseca@exemplo.com,São Paulo,SP,Sudeste,56,Grátis,2023-04-21
+293,Bruno Fonseca,bruno.fonseca@exemplo.com,Salvador,BA,Nordeste,51,Premium,2023-04-01
+294,Cecília Fonseca,cecilia.fonseca@exemplo.com,Belo Horizonte,MG,Sudeste,69,Grátis,2022-06-19
+295,Diego Fonseca,diego.fonseca@exemplo.com,Belo Horizonte,MG,Sudeste,18,Premium,2023-02-09
+296,Eloá Fonseca,eloa.fonseca@exemplo.com,Porto Alegre,RS,Sul,58,Premium,2023-02-28
+297,Frederico Fonseca,frederico.fonseca@exemplo.com,Recife,PE,Nordeste,60,Grátis,2022-04-05
+298,Gabriela Fonseca,gabriela.fonseca@exemplo.com,Belo Horizonte,MG,Sudeste,18,Premium,2022-07-16
+299,Henrique Fonseca,henrique.fonseca@exemplo.com,Curitiba,PR,Sul,37,Grátis,2022-05-14
+300,Isadora Fonseca,isadora.fonseca@exemplo.com,Salvador,BA,Nordeste,47,Premium,2022-03-23
+301,Alice Gonçalves,alice.goncalves@exemplo.com,Recife,PE,Nordeste,41,Grátis,2022-04-23
+302,Arthur Gonçalves,arthur.goncalves@exemplo.com,Belo Horizonte,MG,Sudeste,65,Premium,2022-08-01
+303,Bernardo Gonçalves,bernardo.goncalves@exemplo.com,Brasília,DF,Centro-Oeste,66,Grátis,2022-12-15
+304,Bianca Gonçalves,bianca.goncalves@exemplo.com,Goiânia,GO,Centro-Oeste,51,Premium,2022-02-09
+305,Caio Gonçalves,caio.goncalves@exemplo.com,Goiânia,GO,Centro-Oeste,50,Grátis,2022-10-21
+306,Clara Gonçalves,clara.goncalves@exemplo.com,Brasília,DF,Centro-Oeste,51,Premium,2022-03-01
+307,Daniel Gonçalves,daniel.goncalves@exemplo.com,Curitiba,PR,Sul,46,Grátis,2022-08-21
+308,Diana Gonçalves,diana.goncalves@exemplo.com,Belo Horizonte,MG,Sudeste,21,Premium,2022-12-11
+309,Eduardo Gonçalves,eduardo.goncalves@exemplo.com,Porto Alegre,RS,Sul,70,Grátis,2023-01-17
+310,Elena Gonçalves,elena.goncalves@exemplo.com,Curitiba,PR,Sul,40,Grátis,2022-10-05
+311,Fábio Gonçalves,fabio.goncalves@exemplo.com,São Paulo,SP,Sudeste,36,Premium,2022-04-03
+312,Fabiana Gonçalves,fabiana.goncalves@exemplo.com,Belo Horizonte,MG,Sudeste,46,Premium,2022-07-12
+313,Gustavo Gonçalves,gustavo.goncalves@exemplo.com,Rio de Janeiro,RJ,Sudeste,29,Premium,2022-09-28
+314,Giovanna Gonçalves,giovanna.goncalves@exemplo.com,Belo Horizonte,MG,Sudeste,37,Premium,2022-12-11
+315,Heitor Gonçalves,heitor.goncalves@exemplo.com,Brasília,DF,Centro-Oeste,70,Grátis,2022-05-07
+316,Helena Gonçalves,helena.goncalves@exemplo.com,Fortaleza,CE,Nordeste,30,Grátis,2022-01-17
+317,Igor Gonçalves,igor.goncalves@exemplo.com,Recife,PE,Nordeste,22,Grátis,2022-11-01
+318,Ingrid Gonçalves,ingrid.goncalves@exemplo.com,São Paulo,SP,Sudeste,33,Grátis,2022-07-25
+319,Júlio Gonçalves,julio.goncalves@exemplo.com,Fortaleza,CE,Nordeste,66,Grátis,2022-03-13
+320,Juliana Gonçalves,juliana.goncalves@exemplo.com,Brasília,DF,Centro-Oeste,38,Premium,2022-05-02
+321,Kaique Gonçalves,kaique.goncalves@exemplo.com,Porto Alegre,RS,Sul,44,Premium,2022-05-21
+322,Karen Gonçalves,karen.goncalves@exemplo.com,São Paulo,SP,Sudeste,49,Grátis,2023-05-13
+323,Leonardo Gonçalves,leonardo.goncalves@exemplo.com,Salvador,BA,Nordeste,62,Premium,2022-07-29
+324,Lorena Gonçalves,lorena.goncalves@exemplo.com,Belo Horizonte,MG,Sudeste,66,Premium,2022-05-04
+325,Márcio Gonçalves,marcio.goncalves@exemplo.com,Curitiba,PR,Sul,21,Premium,2023-05-11
+326,Melissa Gonçalves,melissa.goncalves@exemplo.com,Recife,PE,Nordeste,34,Grátis,2022-06-19
+327,Nathan Gonçalves,nathan.goncalves@exemplo.com,Rio de Janeiro,RJ,Sudeste,52,Grátis,2022-01-27
+328,Natália Gonçalves,natalia.goncalves@exemplo.com,Porto Alegre,RS,Sul,20,Grátis,2022-04-07
+329,Otávio Gonçalves,otavio.goncalves@exemplo.com,Goiânia,GO,Centro-Oeste,39,Premium,2023-05-05
+330,Olívia Gonçalves,olivia.goncalves@exemplo.com,São Paulo,SP,Sudeste,65,Premium,2023-04-14
+331,Paulo Gonçalves,paulo.goncalves@exemplo.com,Curitiba,PR,Sul,53,Premium,2023-02-02
+332,Priscila Gonçalves,priscila.goncalves@exemplo.com,Porto Alegre,RS,Sul,59,Premium,2022-06-07
+333,Raul Gonçalves,raul.goncalves@exemplo.com,Porto Alegre,RS,Sul,47,Grátis,2023-02-16
+334,Renata Gonçalves,renata.goncalves@exemplo.com,Fortaleza,CE,Nordeste,38,Premium,2022-01-24
+335,Sérgio Gonçalves,sergio.goncalves@exemplo.com,Goiânia,GO,Centro-Oeste,34,Premium,2022-06-01
+336,Sabrina Gonçalves,sabrina.goncalves@exemplo.com,Belo Horizonte,MG,Sudeste,42,Grátis,2022-09-13
+337,Tiago Gonçalves,tiago.goncalves@exemplo.com,Brasília,DF,Centro-Oeste,64,Premium,2022-08-24
+338,Tainá Gonçalves,taina.goncalves@exemplo.com,Belo Horizonte,MG,Sudeste,64,Premium,2022-04-05
+339,Vítor Gonçalves,vitor.goncalves@exemplo.com,Brasília,DF,Centro-Oeste,22,Grátis,2023-01-27
+340,Valentina Gonçalves,valentina.goncalves@exemplo.com,São Paulo,SP,Sudeste,22,Grátis,2022-01-05
+341,Wesley Gonçalves,wesley.goncalves@exemplo.com,Curitiba,PR,Sul,57,Premium,2022-12-04
+342,Yara Gonçalves,yara.goncalves@exemplo.com,Fortaleza,CE,Nordeste,53,Premium,2022-01-07
+343,Bruno Gonçalves,bruno.goncalves@exemplo.com,São Paulo,SP,Sudeste,19,Premium,2023-02-17
+344,Cecília Gonçalves,cecilia.goncalves@exemplo.com,Belo Horizonte,MG,Sudeste,27,Grátis,2022-04-09
+345,Diego Gonçalves,diego.goncalves@exemplo.com,Goiânia,GO,Centro-Oeste,68,Premium,2022-02-10
+346,Eloá Gonçalves,eloa.goncalves@exemplo.com,Salvador,BA,Nordeste,33,Grátis,2022-06-03
+347,Frederico Gonçalves,frederico.goncalves@exemplo.com,Rio de Janeiro,RJ,Sudeste,42,Premium,2022-10-10
+348,Gabriela Gonçalves,gabriela.goncalves@exemplo.com,Fortaleza,CE,Nordeste,23,Premium,2023-03-09
+349,Henrique Gonçalves,henrique.goncalves@exemplo.com,Recife,PE,Nordeste,51,Grátis,2022-04-28
+350,Isadora Gonçalves,isadora.goncalves@exemplo.com,Curitiba,PR,Sul,22,Premium,2023-04-06
+351,Alice Henriques,alice.henriques@exemplo.com,Brasília,DF,Centro-Oeste,19,Grátis,2022-10-28
+352,Arthur Henriques,arthur.henriques@exemplo.com,Belo Horizonte,MG,Sudeste,28,Grátis,2022-10-18
+353,Bernardo Henriques,bernardo.henriques@exemplo.com,Recife,PE,Nordeste,68,Grátis,2022-09-14
+354,Bianca Henriques,bianca.henriques@exemplo.com,Salvador,BA,Nordeste,32,Grátis,2022-06-24
+355,Caio Henriques,caio.henriques@exemplo.com,Goiânia,GO,Centro-Oeste,58,Premium,2023-02-06
+356,Clara Henriques,clara.henriques@exemplo.com,Fortaleza,CE,Nordeste,53,Premium,2022-08-10
+357,Daniel Henriques,daniel.henriques@exemplo.com,Belo Horizonte,MG,Sudeste,36,Grátis,2023-01-01
+358,Diana Henriques,diana.henriques@exemplo.com,Rio de Janeiro,RJ,Sudeste,42,Grátis,2023-01-14
+359,Eduardo Henriques,eduardo.henriques@exemplo.com,Recife,PE,Nordeste,23,Grátis,2023-04-28
+360,Elena Henriques,elena.henriques@exemplo.com,Porto Alegre,RS,Sul,24,Grátis,2022-02-14
+361,Fábio Henriques,fabio.henriques@exemplo.com,Belo Horizonte,MG,Sudeste,53,Premium,2022-02-22
+362,Fabiana Henriques,fabiana.henriques@exemplo.com,São Paulo,SP,Sudeste,23,Premium,2023-03-19
+363,Gustavo Henriques,gustavo.henriques@exemplo.com,Recife,PE,Nordeste,42,Grátis,2023-01-07
+364,Giovanna Henriques,giovanna.henriques@exemplo.com,Brasília,DF,Centro-Oeste,28,Premium,2022-03-28
+365,Heitor Henriques,heitor.henriques@exemplo.com,Belo Horizonte,MG,Sudeste,49,Grátis,2022-02-02
+366,Helena Henriques,helena.henriques@exemplo.com,Belo Horizonte,MG,Sudeste,37,Premium,2023-02-05
+367,Igor Henriques,igor.henriques@exemplo.com,Rio de Janeiro,RJ,Sudeste,64,Premium,2022-11-01
+368,Ingrid Henriques,ingrid.henriques@exemplo.com,Goiânia,GO,Centro-Oeste,26,Premium,2022-01-04
+369,Júlio Henriques,julio.henriques@exemplo.com,Recife,PE,Nordeste,69,Premium,2022-08-14
+370,Juliana Henriques,juliana.henriques@exemplo.com,Salvador,BA,Nordeste,37,Premium,2022-11-05
+371,Kaique Henriques,kaique.henriques@exemplo.com,Curitiba,PR,Sul,43,Premium,2022-05-30
+372,Karen Henriques,karen.henriques@exemplo.com,Fortaleza,CE,Nordeste,35,Premium,2022-07-06
+373,Leonardo Henriques,leonardo.henriques@exemplo.com,Rio de Janeiro,RJ,Sudeste,29,Grátis,2023-05-03
+374,Lorena Henriques,lorena.henriques@exemplo.com,Fortaleza,CE,Nordeste,62,Grátis,2023-02-24
+375,Márcio Henriques,marcio.henriques@exemplo.com,Recife,PE,Nordeste,33,Premium,2022-12-04
+376,Melissa Henriques,melissa.henriques@exemplo.com,Belo Horizonte,MG,Sudeste,46,Premium,2022-10-26
+377,Nathan Henriques,nathan.henriques@exemplo.com,Recife,PE,Nordeste,68,Premium,2022-12-26
+378,Natália Henriques,natalia.henriques@exemplo.com,Brasília,DF,Centro-Oeste,60,Premium,2022-03-27
+379,Otávio Henriques,otavio.henriques@exemplo.com,Goiânia,GO,Centro-Oeste,66,Premium,2023-05-10
+380,Olívia Henriques,olivia.henriques@exemplo.com,Recife,PE,Nordeste,34,Grátis,2022-09-19
+381,Paulo Henriques,paulo.henriques@exemplo.com,Brasília,DF,Centro-Oeste,43,Premium,2023-01-31
+382,Priscila Henriques,priscila.henriques@exemplo.com,Goiânia,GO,Centro-Oeste,48,Grátis,2022-06-01
+383,Raul Henriques,raul.henriques@exemplo.com,Recife,PE,Nordeste,40,Premium,2022-06-25
+384,Renata Henriques,renata.henriques@exemplo.com,Fortaleza,CE,Nordeste,40,Premium,2022-02-19
+385,Sérgio Henriques,sergio.henriques@exemplo.com,Fortaleza,CE,Nordeste,37,Grátis,2023-02-19
+386,Sabrina Henriques,sabrina.henriques@exemplo.com,Rio de Janeiro,RJ,Sudeste,61,Grátis,2023-04-22
+387,Tiago Henriques,tiago.henriques@exemplo.com,Curitiba,PR,Sul,39,Premium,2023-05-06
+388,Tainá Henriques,taina.henriques@exemplo.com,Fortaleza,CE,Nordeste,29,Premium,2022-07-22
+389,Vítor Henriques,vitor.henriques@exemplo.com,São Paulo,SP,Sudeste,45,Premium,2022-01-03
+390,Valentina Henriques,valentina.henriques@exemplo.com,Curitiba,PR,Sul,54,Grátis,2023-02-14
+391,Wesley Henriques,wesley.henriques@exemplo.com,Brasília,DF,Centro-Oeste,30,Premium,2022-02-28
+392,Yara Henriques,yara.henriques@exemplo.com,Porto Alegre,RS,Sul,56,Premium,2022-11-09
+393,Bruno Henriques,bruno.henriques@exemplo.com,Recife,PE,Nordeste,47,Grátis,2023-02-21
+394,Cecília Henriques,cecilia.henriques@exemplo.com,Porto Alegre,RS,Sul,25,Grátis,2022-06-06
+395,Diego Henriques,diego.henriques@exemplo.com,Rio de Janeiro,RJ,Sudeste,50,Premium,2022-08-03
+396,Eloá Henriques,eloa.henriques@exemplo.com,Goiânia,GO,Centro-Oeste,45,Grátis,2022-09-07
+397,Frederico Henriques,frederico.henriques@exemplo.com,Brasília,DF,Centro-Oeste,49,Premium,2022-03-13
+398,Gabriela Henriques,gabriela.henriques@exemplo.com,Belo Horizonte,MG,Sudeste,21,Premium,2023-05-03
+399,Henrique Henriques,henrique.henriques@exemplo.com,São Paulo,SP,Sudeste,70,Premium,2023-05-09
+400,Isadora Henriques,isadora.henriques@exemplo.com,Brasília,DF,Centro-Oeste,44,Premium,2022-09-08
+401,Alice Ibrahim,alice.ibrahim@exemplo.com,Belo Horizonte,MG,Sudeste,68,Grátis,2022-05-30
+402,Arthur Ibrahim,arthur.ibrahim@exemplo.com,São Paulo,SP,Sudeste,36,Grátis,2023-02-04
+403,Bernardo Ibrahim,bernardo.ibrahim@exemplo.com,Fortaleza,CE,Nordeste,25,Grátis,2022-05-18
+404,Bianca Ibrahim,bianca.ibrahim@exemplo.com,Brasília,DF,Centro-Oeste,66,Premium,2022-10-07
+405,Caio Ibrahim,caio.ibrahim@exemplo.com,Curitiba,PR,Sul,37,Grátis,2022-08-19
+406,Clara Ibrahim,clara.ibrahim@exemplo.com,Porto Alegre,RS,Sul,25,Grátis,2022-04-18
+407,Daniel Ibrahim,daniel.ibrahim@exemplo.com,Goiânia,GO,Centro-Oeste,28,Grátis,2023-02-06
+408,Diana Ibrahim,diana.ibrahim@exemplo.com,Curitiba,PR,Sul,40,Premium,2022-11-02
+409,Eduardo Ibrahim,eduardo.ibrahim@exemplo.com,Brasília,DF,Centro-Oeste,36,Premium,2023-05-03
+410,Elena Ibrahim,elena.ibrahim@exemplo.com,Brasília,DF,Centro-Oeste,21,Premium,2023-03-20
+411,Fábio Ibrahim,fabio.ibrahim@exemplo.com,Belo Horizonte,MG,Sudeste,63,Premium,2023-03-01
+412,Fabiana Ibrahim,fabiana.ibrahim@exemplo.com,Curitiba,PR,Sul,54,Premium,2022-11-18
+413,Gustavo Ibrahim,gustavo.ibrahim@exemplo.com,Recife,PE,Nordeste,58,Grátis,2022-07-26
+414,Giovanna Ibrahim,giovanna.ibrahim@exemplo.com,Brasília,DF,Centro-Oeste,49,Premium,2022-10-25
+415,Heitor Ibrahim,heitor.ibrahim@exemplo.com,São Paulo,SP,Sudeste,22,Premium,2022-04-22
+416,Helena Ibrahim,helena.ibrahim@exemplo.com,Recife,PE,Nordeste,38,Premium,2022-06-22
+417,Igor Ibrahim,igor.ibrahim@exemplo.com,Brasília,DF,Centro-Oeste,68,Premium,2023-04-03
+418,Ingrid Ibrahim,ingrid.ibrahim@exemplo.com,São Paulo,SP,Sudeste,19,Grátis,2023-04-21
+419,Júlio Ibrahim,julio.ibrahim@exemplo.com,Belo Horizonte,MG,Sudeste,45,Grátis,2022-12-19
+420,Juliana Ibrahim,juliana.ibrahim@exemplo.com,Belo Horizonte,MG,Sudeste,23,Premium,2022-05-09
+421,Kaique Ibrahim,kaique.ibrahim@exemplo.com,Rio de Janeiro,RJ,Sudeste,43,Premium,2023-01-07
+422,Karen Ibrahim,karen.ibrahim@exemplo.com,Curitiba,PR,Sul,18,Grátis,2022-09-02
+423,Leonardo Ibrahim,leonardo.ibrahim@exemplo.com,Rio de Janeiro,RJ,Sudeste,51,Premium,2022-01-05
+424,Lorena Ibrahim,lorena.ibrahim@exemplo.com,São Paulo,SP,Sudeste,62,Grátis,2022-09-02
+425,Márcio Ibrahim,marcio.ibrahim@exemplo.com,Rio de Janeiro,RJ,Sudeste,64,Grátis,2022-02-22
+426,Melissa Ibrahim,melissa.ibrahim@exemplo.com,Salvador,BA,Nordeste,42,Grátis,2022-11-25
+427,Nathan Ibrahim,nathan.ibrahim@exemplo.com,Belo Horizonte,MG,Sudeste,18,Grátis,2022-08-14
+428,Natália Ibrahim,natalia.ibrahim@exemplo.com,Salvador,BA,Nordeste,57,Premium,2023-03-17
+429,Otávio Ibrahim,otavio.ibrahim@exemplo.com,Curitiba,PR,Sul,66,Grátis,2022-10-29
+430,Olívia Ibrahim,olivia.ibrahim@exemplo.com,Recife,PE,Nordeste,68,Grátis,2022-05-07
+431,Paulo Ibrahim,paulo.ibrahim@exemplo.com,Porto Alegre,RS,Sul,56,Premium,2023-02-03
+432,Priscila Ibrahim,priscila.ibrahim@exemplo.com,São Paulo,SP,Sudeste,56,Grátis,2023-01-18
+433,Raul Ibrahim,raul.ibrahim@exemplo.com,Recife,PE,Nordeste,49,Premium,2022-02-27
+434,Renata Ibrahim,renata.ibrahim@exemplo.com,Curitiba,PR,Sul,51,Grátis,2022-07-04
+435,Sérgio Ibrahim,sergio.ibrahim@exemplo.com,Salvador,BA,Nordeste,44,Premium,2022-10-07
+436,Sabrina Ibrahim,sabrina.ibrahim@exemplo.com,Belo Horizonte,MG,Sudeste,55,Grátis,2022-01-08
+437,Tiago Ibrahim,tiago.ibrahim@exemplo.com,Porto Alegre,RS,Sul,68,Premium,2022-09-17
+438,Tainá Ibrahim,taina.ibrahim@exemplo.com,Porto Alegre,RS,Sul,23,Grátis,2022-05-23
+439,Vítor Ibrahim,vitor.ibrahim@exemplo.com,Rio de Janeiro,RJ,Sudeste,31,Grátis,2022-10-02
+440,Valentina Ibrahim,valentina.ibrahim@exemplo.com,Salvador,BA,Nordeste,37,Premium,2023-01-09
+441,Wesley Ibrahim,wesley.ibrahim@exemplo.com,Curitiba,PR,Sul,45,Grátis,2022-08-21
+442,Yara Ibrahim,yara.ibrahim@exemplo.com,Goiânia,GO,Centro-Oeste,25,Grátis,2022-12-29
+443,Bruno Ibrahim,bruno.ibrahim@exemplo.com,Belo Horizonte,MG,Sudeste,40,Premium,2022-03-27
+444,Cecília Ibrahim,cecilia.ibrahim@exemplo.com,Salvador,BA,Nordeste,67,Grátis,2022-06-21
+445,Diego Ibrahim,diego.ibrahim@exemplo.com,Recife,PE,Nordeste,34,Grátis,2022-09-12
+446,Eloá Ibrahim,eloa.ibrahim@exemplo.com,Fortaleza,CE,Nordeste,54,Grátis,2022-07-08
+447,Frederico Ibrahim,frederico.ibrahim@exemplo.com,Belo Horizonte,MG,Sudeste,61,Grátis,2022-04-27
+448,Gabriela Ibrahim,gabriela.ibrahim@exemplo.com,Brasília,DF,Centro-Oeste,33,Grátis,2022-08-30
+449,Henrique Ibrahim,henrique.ibrahim@exemplo.com,Salvador,BA,Nordeste,20,Premium,2022-04-25
+450,Isadora Ibrahim,isadora.ibrahim@exemplo.com,Salvador,BA,Nordeste,35,Grátis,2022-10-20
+451,Alice Jardim,alice.jardim@exemplo.com,Salvador,BA,Nordeste,29,Grátis,2023-02-16
+452,Arthur Jardim,arthur.jardim@exemplo.com,Brasília,DF,Centro-Oeste,47,Premium,2023-02-01
+453,Bernardo Jardim,bernardo.jardim@exemplo.com,Porto Alegre,RS,Sul,47,Grátis,2022-07-08
+454,Bianca Jardim,bianca.jardim@exemplo.com,Curitiba,PR,Sul,65,Grátis,2022-08-26
+455,Caio Jardim,caio.jardim@exemplo.com,Salvador,BA,Nordeste,66,Grátis,2022-03-19
+456,Clara Jardim,clara.jardim@exemplo.com,São Paulo,SP,Sudeste,52,Premium,2022-11-22
+457,Daniel Jardim,daniel.jardim@exemplo.com,São Paulo,SP,Sudeste,65,Premium,2022-02-23
+458,Diana Jardim,diana.jardim@exemplo.com,Curitiba,PR,Sul,21,Grátis,2022-12-31
+459,Eduardo Jardim,eduardo.jardim@exemplo.com,Porto Alegre,RS,Sul,51,Premium,2022-12-25
+460,Elena Jardim,elena.jardim@exemplo.com,Salvador,BA,Nordeste,24,Grátis,2022-11-23
+461,Fábio Jardim,fabio.jardim@exemplo.com,Recife,PE,Nordeste,21,Premium,2022-12-06
+462,Fabiana Jardim,fabiana.jardim@exemplo.com,Belo Horizonte,MG,Sudeste,38,Premium,2022-12-25
+463,Gustavo Jardim,gustavo.jardim@exemplo.com,Salvador,BA,Nordeste,32,Grátis,2023-04-29
+464,Giovanna Jardim,giovanna.jardim@exemplo.com,Curitiba,PR,Sul,27,Grátis,2022-03-26
+465,Heitor Jardim,heitor.jardim@exemplo.com,Fortaleza,CE,Nordeste,25,Premium,2023-05-09
+466,Helena Jardim,helena.jardim@exemplo.com,Curitiba,PR,Sul,34,Grátis,2022-02-16
+467,Igor Jardim,igor.jardim@exemplo.com,Belo Horizonte,MG,Sudeste,31,Premium,2022-03-17
+468,Ingrid Jardim,ingrid.jardim@exemplo.com,Rio de Janeiro,RJ,Sudeste,50,Grátis,2022-12-13
+469,Júlio Jardim,julio.jardim@exemplo.com,Porto Alegre,RS,Sul,43,Premium,2022-10-12
+470,Juliana Jardim,juliana.jardim@exemplo.com,Brasília,DF,Centro-Oeste,24,Grátis,2022-03-04
+471,Kaique Jardim,kaique.jardim@exemplo.com,São Paulo,SP,Sudeste,30,Premium,2022-07-10
+472,Karen Jardim,karen.jardim@exemplo.com,Rio de Janeiro,RJ,Sudeste,22,Grátis,2023-04-08
+473,Leonardo Jardim,leonardo.jardim@exemplo.com,Fortaleza,CE,Nordeste,25,Grátis,2023-04-28
+474,Lorena Jardim,lorena.jardim@exemplo.com,Fortaleza,CE,Nordeste,45,Premium,2022-09-12
+475,Márcio Jardim,marcio.jardim@exemplo.com,São Paulo,SP,Sudeste,40,Grátis,2023-04-11
+476,Melissa Jardim,melissa.jardim@exemplo.com,Belo Horizonte,MG,Sudeste,27,Grátis,2022-11-11
+477,Nathan Jardim,nathan.jardim@exemplo.com,Goiânia,GO,Centro-Oeste,44,Premium,2022-02-01
+478,Natália Jardim,natalia.jardim@exemplo.com,Rio de Janeiro,RJ,Sudeste,44,Grátis,2022-11-26
+479,Otávio Jardim,otavio.jardim@exemplo.com,Brasília,DF,Centro-Oeste,42,Premium,2022-09-03
+480,Olívia Jardim,olivia.jardim@exemplo.com,Brasília,DF,Centro-Oeste,50,Premium,2022-07-18
+481,Paulo Jardim,paulo.jardim@exemplo.com,Porto Alegre,RS,Sul,56,Grátis,2022-01-16
+482,Priscila Jardim,priscila.jardim@exemplo.com,Porto Alegre,RS,Sul,40,Grátis,2023-05-14
+483,Raul Jardim,raul.jardim@exemplo.com,Belo Horizonte,MG,Sudeste,35,Grátis,2023-01-27
+484,Renata Jardim,renata.jardim@exemplo.com,Curitiba,PR,Sul,29,Grátis,2022-10-31
+485,Sérgio Jardim,sergio.jardim@exemplo.com,Salvador,BA,Nordeste,63,Premium,2023-05-01
+486,Sabrina Jardim,sabrina.jardim@exemplo.com,Goiânia,GO,Centro-Oeste,69,Premium,2022-10-05
+487,Tiago Jardim,tiago.jardim@exemplo.com,Porto Alegre,RS,Sul,23,Grátis,2022-04-30
+488,Tainá Jardim,taina.jardim@exemplo.com,Goiânia,GO,Centro-Oeste,48,Grátis,2022-06-19
+489,Vítor Jardim,vitor.jardim@exemplo.com,Goiânia,GO,Centro-Oeste,63,Grátis,2023-04-16
+490,Valentina Jardim,valentina.jardim@exemplo.com,Salvador,BA,Nordeste,55,Grátis,2023-02-01
+491,Wesley Jardim,wesley.jardim@exemplo.com,Rio de Janeiro,RJ,Sudeste,63,Premium,2022-10-28
+492,Yara Jardim,yara.jardim@exemplo.com,Rio de Janeiro,RJ,Sudeste,26,Grátis,2023-01-10
+493,Bruno Jardim,bruno.jardim@exemplo.com,Recife,PE,Nordeste,63,Premium,2022-04-25
+494,Cecília Jardim,cecilia.jardim@exemplo.com,Goiânia,GO,Centro-Oeste,64,Premium,2022-03-07
+495,Diego Jardim,diego.jardim@exemplo.com,Belo Horizonte,MG,Sudeste,67,Grátis,2022-04-04
+496,Eloá Jardim,eloa.jardim@exemplo.com,Goiânia,GO,Centro-Oeste,58,Grátis,2023-04-25
+497,Frederico Jardim,frederico.jardim@exemplo.com,Fortaleza,CE,Nordeste,33,Premium,2022-06-13
+498,Gabriela Jardim,gabriela.jardim@exemplo.com,Belo Horizonte,MG,Sudeste,18,Premium,2022-04-18
+499,Henrique Jardim,henrique.jardim@exemplo.com,Curitiba,PR,Sul,68,Grátis,2023-01-04
+500,Isadora Jardim,isadora.jardim@exemplo.com,São Paulo,SP,Sudeste,64,Premium,2023-05-12

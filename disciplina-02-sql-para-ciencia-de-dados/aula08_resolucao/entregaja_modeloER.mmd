@@ -1,0 +1,80 @@
+erDiagram
+    restaurantes {
+        INT64    restaurante_id  PK
+        STRING   nome
+        STRING   categoria
+        STRING   cidade
+        STRING   uf
+        STRING   regiao
+        NUMERIC  taxa_entrega
+        INT64    tempo_medio_min
+        DATE     data_abertura
+    }
+
+    clientes {
+        INT64    cliente_id      PK
+        STRING   nome
+        STRING   email
+        STRING   cidade
+        STRING   uf
+        STRING   regiao
+        INT64    idade
+        STRING   plano
+        DATE     data_cadastro
+    }
+
+    entregadores {
+        INT64    entregador_id   PK
+        STRING   nome
+        STRING   cidade
+        STRING   uf
+        STRING   veiculo
+        DATE     data_inicio
+    }
+
+    itens {
+        INT64    item_id         PK
+        INT64    restaurante_id  FK
+        STRING   nome_item
+        STRING   categoria_item
+        STRING   tipo_item
+        NUMERIC  preco
+    }
+
+    pedidos {
+        INT64    pedido_id       PK
+        INT64    cliente_id      FK
+        INT64    restaurante_id  FK
+        INT64    entregador_id   FK "nullable"
+        DATETIME data_hora_pedido
+        STRING   status
+        STRING   canal
+        STRING   forma_pagamento
+        NUMERIC  taxa_entrega
+        NUMERIC  cupom_desconto
+        INT64    tempo_entrega_min "nullable"
+    }
+
+    pedido_itens {
+        INT64    pedido_item_id  PK
+        INT64    pedido_id       FK
+        INT64    item_id         FK
+        INT64    quantidade
+        NUMERIC  preco_unitario
+    }
+
+    avaliacoes {
+        INT64    avaliacao_id    PK
+        INT64    pedido_id       FK "1:1 único com pedidos"
+        INT64    nota
+        STRING   comentario
+        DATETIME data_avaliacao
+    }
+
+    restaurantes   ||--o{ itens          : "tem no cardapio"
+    itens          ||--o{ pedido_itens   : "aparece em"
+    pedidos        ||--|{ pedido_itens   : "contem"
+    clientes       ||--o{ pedidos        : "faz"
+    restaurantes   ||--o{ pedidos        : "recebe"
+    entregadores   ||--o{ pedidos        : "entrega"
+    pedidos        ||--o| avaliacoes     : "recebe"
